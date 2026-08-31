@@ -2,11 +2,17 @@
 
 ## Cel pracy w tym katalogu
 
-W tym katalogu tworzymy pracę magisterską Romana Judeszko.
+W tym katalogu tworzymy pracę magisterską Nastassii Żurawel.
 
-Główny temat roboczy:
+Tytuł:
 
-`Wpływ polskich seriali na popularność polskich destynacji turystycznych`
+`Komunikacja marketingowa w mediach społecznościowych a zachowania konsumentów pokolenia Z, na przykładzie branży kinowej`
+
+Cel główny: ocena komunikacji marketingowej w mediach społecznościowych jako determinanty zachowań konsumentów pokolenia Z na rynku kinowym. Szczegóły koncepcji w `Konspekt_pracy_magisterskiej.md`.
+
+Pytania badawcze: jak pokolenie Z ocenia instrumenty promocji kinowej, jakie czynniki decydują o wyborze kina oraz jak oceniana jest autentyczność i wiarygodność narzędzi komunikacji filmowej.
+
+Hipotezy: H1 pokolenie Z odkrywa filmy głównie w social mediach, H2 treści UGC są bardziej autentyczne niż komunikaty dystrybutorów, H3 autentyczność zwiększa decyzję o wizycie w kinie, H4 społeczności online determinują wybór filmu.
 
 ## Zakres działań
 
