@@ -19,21 +19,22 @@ W tym miejscu przygotowujemy:
 
 ## Zasady edycji
 
+- każdy tekst przed oddaniem przepuść przez skill `unslop` (`~/.agents/skills/unslop/SKILL.md`). Usuń 31 wzorców AI tells, dodaj głos zgodnie z sekcją Adding soul i zrób self-audit co wciąż wygląda jak AI. Bez tego nie uznawaj tekstu za gotowy
 - pisać po polsku, chyba że dany element wymaga języka angielskiego
-- zachowywać formalny, akademicki styl, ale **preferować prosty, bezpośredni język** zamiast akademickiego żargonu
+- zachowywać formalny, akademicki styl, ale wybierać prosty, bezpośredni język zamiast żargonu
 - preferować minimalne i czytelne zmiany w istniejących plikach
 - przygotowywać pliki tak, aby dało się je kompilować przez `pandoc` i `tectonic`
 - do programowej edycji i manipulacji tekstem/PDF-ami używaj `uv` i instaluj potrzebne biblioteki
 
 ## Zasady redakcyjne pracy
 
-- nie używać myślników ani półpauz jako znaków interpunkcyjnych; zastępować je przecinkami, dwukropkami, nawiasami albo spójnikami
+- nie używać myślników ani półpauz jako znaków interpunkcyjnych. Zastępować je przecinkami, dwukropkami, nawiasami albo spójnikami
 - nie zmieniać łączników należących do nazwisk, utrwalonych terminów, tytułów publikacji, adresów URL ani identyfikatorów DOI
 - każdy plik rozdziału umieszczony w `scripts/thesis-sources.txt` ma zawierać dokładnie jeden nagłówek pierwszego poziomu i żadnych nagłówków niższych poziomów
-- po usunięciu nagłówków pomocniczych zachowywać logiczny tok wywodu; w razie potrzeby dodawać krótkie zdania łączące sąsiednie akapity
+- po usunięciu nagłówków pomocniczych zachowywać logiczny tok wywodu. W razie potrzeby dodawać krótkie zdania łączące sąsiednie akapity
 - kwerenda literatury, notatki badawcze, materiały robocze oraz `00-wstep.md` nie należą do głównego dokumentu i nie mogą być dodawane do `scripts/thesis-sources.txt`
 - główny dokument renderować wyłącznie ze źródeł wymienionych w `scripts/thesis-sources.txt`
-- podpis rysunku umieszczać pod rysunkiem, pogrubioną czcionką 12 pkt, bez kropki końcowej; informację o źródle umieszczać niżej, zwykłą czcionką 10 pkt
+- podpis rysunku umieszczać pod rysunkiem, pogrubioną czcionką 12 pkt, bez kropki końcowej. Informację o źródle umieszczać niżej, zwykłą czcionką 10 pkt
 - komunikaty commitów pisać po angielsku
 
 ## Zasady dotyczące źródeł
@@ -41,10 +42,10 @@ W tym miejscu przygotowujemy:
 - dla tabel przeglądu literatury preferować artykuły z ostatnich 10 lat
 - odróżniać artykuły przeglądowe od badań empirycznych
 - opisywać wpisy na podstawie wiarygodnych metadanych, abstraktów i treści źródłowych
-- jeśli metadane APA są niepełne, nie wymyślać braków; zostawić możliwie poprawną wersję roboczą
-- źródłowe PDF-y z `bibliografia/` traktować jako archiwum; czytać przede wszystkim przekonwertowane pliki `Markdown` z `bibliografia-md/`, a do surowych PDF-ów wracać tylko wtedy, gdy odpowiedni plik `.md` nie istnieje albo ekstrakcja jest nieczytelna
+- jeśli metadane APA są niepełne, nie wymyślać braków. Zostawić możliwie poprawną wersję roboczą
+- źródłowe PDF-y z `bibliografia/` traktować jako archiwum. Czytać przede wszystkim pliki `Markdown` z `bibliografia-md/`. Do surowych PDF-ów wracać tylko gdy plik `.md` nie istnieje albo ekstrakcja jest nieczytelna
 - wszystkie twierdzenia, streszczenia i odnośniki w pracy opierać na faktach możliwych do zweryfikowania w bibliografii, najlepiej przez cytowanie lub parafrazowanie fragmentów z `bibliografia-md/`
-- nie zabrania się używać nowych źródeł, ale muszą być pobrane do `bibliografia/`, przekonwertowane do `bibliografia-md/` za pomocą `scripts/convert-bibliografia-pdfs.sh` i dopiero wtedy używane jako podstawa pracy
+- nowe źródła są dozwolone. Pobierz je do `bibliografia/` i przekonwertuj do `bibliografia-md/` za pomocą `scripts/convert-bibliografia-pdfs.sh`. Używaj ich jako podstawy dopiero po konwersji
 
 ## Bezwzględny zakaz
 
@@ -56,25 +57,25 @@ W tym miejscu przygotowujemy:
 
 - szerokie tabele przygotowywać z myślą o układzie poziomym PDF
 - stosować przejrzyste nagłówki i krótkie sekcje pomocnicze
-- dbać o dobry stan tabel w finalnym PDF: właściwe szerokości kolumn, poprawne łamanie treści i brak ostrzeżeń typu `Overfull \hbox`, jeżeli można je usunąć przez sensowną redakcję układu lub treści
+- dbać o dobry stan tabel w finalnym PDF. Utrzymuj właściwe szerokości kolumn i poprawne łamanie treści. Usuwaj ostrzeżenia typu `Overfull \hbox` gdy da się je usunąć sensowną redakcją układu lub treści
 - zachowywać standard UEP w obu eksportach: format A4, margines górny i dolny 2,5 cm, lewy 3 cm, prawy 2 cm, Carlito lub Calibri 12 pkt, interlinia 1,5, wcięcie pierwszego wiersza 0,5 cm i justowanie
 
 ## Styl diagramów
 
-- wzorcem wizualnym dla wszystkich diagramów jest `assets/sekwencja-oddzialywania.png`; nowe diagramy mają tworzyć z nim jeden spójny system
+- wzorcem wizualnym dla wszystkich diagramów jest `assets/sekwencja-oddzialywania.png`. Nowe diagramy mają tworzyć z nim jeden spójny system
 - stosować białe tło i poziome płótno w proporcji 16:9, z dużą ilością wolnej przestrzeni wokół diagramu
 - przebieg procesu prowadzić wyłącznie pionowo, w jednej wyśrodkowanej kolumnie, bez układu węża, bocznych odgałęzień ani przesuniętych poziomów
 - etapy umieszczać w identycznych jasnoniebieskich prostokątach z mocno zaokrąglonymi narożnikami, cienkim czarnym obrysem i równymi odstępami
 - etapy łączyć prostymi czarnymi strzałkami skierowanymi pionowo w dół
-- numer etapu umieszczać poza prostokątem, po jego lewej stronie; stosować duży, czarny i pogrubiony krój oraz wyrównanie numerów do jednej osi
+- numer etapu umieszczać poza prostokątem, po jego lewej stronie. Stosować duży, czarny i pogrubiony krój oraz wyrównanie numerów do jednej osi
 - nazwę etapu umieszczać centralnie w prostokącie czarną czcionką bezszeryfową, a objaśnienie bezpośrednio pod nią mniejszą szarą czcionką
 - zachowywać jednakowe szerokości i wysokości pól, wspólną oś pionową, identyczne odstępy oraz optyczne wyśrodkowanie całej kompozycji
 - nie dodawać pasów pomocniczych, legend, ozdobnych ikon, cieni, gradientów ani dodatkowych kolorów, jeśli użytkownik nie zatwierdzi odstępstwa
-- przed użyciem diagramu w pracy sprawdzić jego stronę w obu pełnych eksportach; żaden element nie może być przycięty, przesunięty ani pomniejszony do nieczytelnego rozmiaru
+- przed użyciem diagramu sprawdź jego stronę w obu pełnych eksportach. Żaden element nie może być przycięty, przesunięty ani pomniejszony do nieczytelnego rozmiaru
 - nie regenerować ani nie nadpisywać zatwierdzonego pliku `assets/sekwencja-oddzialywania.png` bez wyraźnego polecenia użytkownika
 
 ## Kompilacja
 
-- **nigdy nie generować osobnych PDF-ów dla pojedynczych rozdziałów** — zawsze generować tylko całość pracy (`praca-magisterska.pdf`) za pomocą `scripts/render-pdf.sh`
+- **nigdy nie generować osobnych PDF-ów dla pojedynczych rozdziałów**. Zawsze generować tylko całość pracy (`praca-magisterska.pdf`) za pomocą `scripts/render-pdf.sh`
 - po każdej istotnej zmianie w plikach `Markdown` należy od razu przegenerować całą pracę
 - po każdej kompilacji `PDF` należy kompilować plik Word za pomocą `scripts/render-docx.sh`
