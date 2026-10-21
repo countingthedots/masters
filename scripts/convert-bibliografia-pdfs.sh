@@ -7,18 +7,17 @@ DST_DIR="$REPO_ROOT/bibliografia-md"
 
 mkdir -p "$SRC_DIR" "$DST_DIR"
 
-# No PDFs yet, exit cleanly
-if ! ls "$SRC_DIR"/*.pdf >/dev/null 2>&1; then
-  echo "No PDFs in $SRC_DIR, nothing to convert."
-  exit 0
+if [ "$#" -eq 0 ]; then
+  # With no arguments, preserve the existing whole-archive conversion.
+  set -- "$SRC_DIR"/*.pdf
 fi
 
-for src in "$SRC_DIR"/*.pdf; do
+for src in "$@"; do
   [ -e "$src" ] || continue
   base=$(basename "$src" .pdf)
   dst="$DST_DIR/$base.md"
   echo "Converting $src -> $dst"
-  uv run --with "pymupdf4llm" python3 - "$src" "$dst" <<'PY'
+  uv run --with "pymupdf4llm==0.0.27" python3 - "$src" "$dst" <<'PY'
 import sys
 from pathlib import Path
 

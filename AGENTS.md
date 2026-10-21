@@ -25,6 +25,8 @@ W tym miejscu przygotowujemy:
 
 ## Zasady edycji
 
+- pisać i zatwierdzać kolejne podrozdziały osobno. Nie dopisywać dalszych podrozdziałów bez polecenia użytkowniczki
+- przed napisaniem kolejnego podrozdziału przeczytać wcześniejsze zatwierdzone części. Rozwijać nowe zagadnienia, a do wyjaśnionych już definicji i argumentów odwoływać się krótko, bez ich ponownego omawiania
 - każdy tekst przed oddaniem przepuść przez skill `unslop` (`~/.agents/skills/unslop/SKILL.md`). Usuń 31 wzorców AI tells, dodaj głos zgodnie z sekcją Adding soul i zrób self-audit co wciąż wygląda jak AI. Bez tego nie uznawaj tekstu za gotowy
 - pisać po polsku, chyba że dany element wymaga języka angielskiego
 - zachowywać formalny, akademicki styl, ale wybierać prosty, bezpośredni język zamiast żargonu

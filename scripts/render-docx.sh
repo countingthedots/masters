@@ -51,8 +51,8 @@ files = [
 
 metadata = """---
 title: "Praca magisterska"
-subtitle: "Wpływ polskich seriali na popularność polskich destynacji turystycznych"
-author: "Roman Judeszko"
+subtitle: "Komunikacja marketingowa w mediach społecznościowych a zachowania konsumentów pokolenia Z, na przykładzie branży kinowej"
+author: "Nastassia Żurawel"
 lang: pl-PL
 toc: true
 toc-title: "Spis treści"
@@ -438,6 +438,9 @@ def populate_toc(document_root: ET.Element) -> None:
         style = child.find("w:pPr/w:pStyle", NS)
         if style is None or style.get(w_tag("val")) != "Heading1":
             continue
+        inline_bookmark = child.find("w:bookmarkStart", NS)
+        if inline_bookmark is not None:
+            pending_bookmark = inline_bookmark.get(w_tag("name"), "")
         if not pending_bookmark:
             continue
         title = "".join(text.text or "" for text in child.findall(".//w:t", NS))

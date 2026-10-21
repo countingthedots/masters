@@ -1,0 +1,25 @@
+---
+title: "Komunikacja marketingowa w mediach społecznościowych a zachowania konsumentów pokolenia Z, na przykładzie branży kinowej"
+subtitle: "Praca magisterska"
+author: "Nastassia Żurawel"
+date: "2026"
+lang: pl-PL
+toc: true
+toc-title: "Spis treści"
+numbersections: false
+geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=3cm, right=2cm"
+mainfont: "Carlito"
+fontsize: 12pt
+linestretch: 1.5
+header-includes: |
+  \usepackage{indentfirst}
+  \usepackage[ragged]{footmisc}
+  \clubpenalty=10000
+  \widowpenalty=10000
+  \brokenpenalty=10000
+  \setlength{\parindent}{0.5cm}
+  \usepackage{setspace}
+  \setstretch{1.5}
+  \usepackage{parskip}
+  \setlength{\parskip}{0pt}
+---
