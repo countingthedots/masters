@@ -289,6 +289,8 @@ def set_footnote_font_size(root: ET.Element) -> None:
 
 def set_font(run_properties: ET.Element, name: str = UEP_FONT) -> None:
     fonts = ensure_child(run_properties, "rFonts")
+    for attribute in ("asciiTheme", "hAnsiTheme", "eastAsiaTheme", "cstheme"):
+        fonts.attrib.pop(w_tag(attribute), None)
     for attribute in ("ascii", "hAnsi", "eastAsia", "cs"):
         fonts.set(w_tag(attribute), name)
 
