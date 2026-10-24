@@ -27,9 +27,15 @@ W tym miejscu przygotowujemy:
 
 - pisać i zatwierdzać kolejne podrozdziały osobno. Nie dopisywać dalszych podrozdziałów bez polecenia użytkowniczki
 - przed napisaniem kolejnego podrozdziału przeczytać wcześniejsze zatwierdzone części. Rozwijać nowe zagadnienia, a do wyjaśnionych już definicji i argumentów odwoływać się krótko, bez ich ponownego omawiania
-- każdy tekst przed oddaniem przepuść przez skill `unslop` (`~/.agents/skills/unslop/SKILL.md`). Usuń 31 wzorców AI tells, dodaj głos zgodnie z sekcją Adding soul i zrób self-audit co wciąż wygląda jak AI. Bez tego nie uznawaj tekstu za gotowy
+- przed oddaniem każdego tekstu zastosować skill `unslop` (`~/.agents/skills/unslop/SKILL.md`) i przeprowadzić końcową ocenę naturalności oraz spójności stylu
 - pisać po polsku, chyba że dany element wymaga języka angielskiego
 - zachowywać formalny, akademicki styl, ale wybierać prosty, bezpośredni język zamiast żargonu
+- formułować zdania tak, aby ich sens był zrozumiały przy pierwszym czytaniu. Preferować naturalny szyk i proste spójniki, np. „ale”, zamiast podniosłych lub przestawnych konstrukcji
+- opisywać konkretne sytuacje i działania: kto podejmuje decyzję, czego dotyczy wybór i kiedy następuje ocena. Unikać abstrakcyjnych sformułowań, jeśli można zastąpić je równie precyzyjnym opisem
+- wyjaśniać funkcję omawianego zjawiska bezpośrednio, np. „komunikacja wyjaśnia, co organizacja oferuje”, zamiast ogólnych sformułowań o powiązaniach i zależnościach
+- prowadzić wywód przez łączenie problemu z jego znaczeniem dla widza lub podmiotów branży. Związki przyczynowe wskazywać tylko wtedy, gdy uzasadniają je źródła lub przedstawione rozumowanie
+- ograniczać zdania dopowiadające, co należy od czego odróżnić, oraz zastrzeżenia o możliwych błędnych interpretacjach. Zachowywać je, gdy są potrzebne do zrozumienia pojęcia, zakresu badania lub ograniczeń wnioskowania
+- traktować redakcję użytkowniczki jako wzorzec preferowanego sposobu wyrażania myśli. Zachowywać jej sens i bezpośredniość, korygując gramatykę, pisownię oraz ewentualne nieścisłości merytoryczne
 - preferować minimalne i czytelne zmiany w istniejących plikach
 - przygotowywać pliki tak, aby dało się je kompilować przez `pandoc` i `tectonic`
 - do programowej edycji i manipulacji tekstem/PDF-ami używaj `uv` i instaluj potrzebne biblioteki
@@ -64,7 +70,7 @@ W tym miejscu przygotowujemy:
 ## Preferencje formatowania
 
 - szerokie tabele przygotowywać z myślą o układzie poziomym PDF
-- stosować przejrzyste nagłówki i krótkie sekcje pomocnicze
+- w materiałach roboczych stosować przejrzyste nagłówki i krótkie sekcje pomocnicze. W plikach rozdziałów zachowywać zasady nagłówków określone w sekcji „Zasady redakcyjne pracy”
 - dbać o dobry stan tabel w finalnym PDF. Utrzymuj właściwe szerokości kolumn i poprawne łamanie treści. Usuwaj ostrzeżenia typu `Overfull \hbox` gdy da się je usunąć sensowną redakcją układu lub treści
 - zachowywać standard UEP w obu eksportach: format A4, margines górny i dolny 2,5 cm, lewy 3 cm, prawy 2 cm, Carlito lub Calibri 12 pkt, interlinia 1,5, wcięcie pierwszego wiersza 0,5 cm i justowanie
 
@@ -85,5 +91,5 @@ W tym miejscu przygotowujemy:
 ## Kompilacja
 
 - **nigdy nie generować osobnych PDF-ów dla pojedynczych rozdziałów**. Zawsze generować tylko całość pracy (`praca-magisterska.pdf`) za pomocą `scripts/render-pdf.sh`
-- po każdej istotnej zmianie w plikach `Markdown` należy od razu przegenerować całą pracę
+- po każdej istotnej zmianie treści lub układu pracy należy od razu przegenerować całą pracę. Zmiany w instrukcjach, notatkach bibliograficznych i innych materiałach niewłączanych do głównego dokumentu nie wymagają kompilacji
 - po każdej kompilacji `PDF` należy kompilować plik Word za pomocą `scripts/render-docx.sh`
