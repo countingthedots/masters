@@ -34,6 +34,7 @@ W tym miejscu przygotowujemy:
 - opisywać konkretne sytuacje i działania: kto podejmuje decyzję, czego dotyczy wybór i kiedy następuje ocena. Unikać abstrakcyjnych sformułowań, jeśli można zastąpić je równie precyzyjnym opisem
 - wyjaśniać funkcję omawianego zjawiska bezpośrednio, np. „komunikacja wyjaśnia, co organizacja oferuje”, zamiast ogólnych sformułowań o powiązaniach i zależnościach
 - prowadzić wywód przez łączenie problemu z jego znaczeniem dla widza lub podmiotów branży. Związki przyczynowe wskazywać tylko wtedy, gdy uzasadniają je źródła lub przedstawione rozumowanie
+- przy zmianie tematu wyraźnie sygnalizować przejście i wyjaśniać związek kolejnego zagadnienia z dotychczasowym wywodem. Czytelnik bez przygotowania marketingowego powinien rozumieć, dlaczego pojawia się nowe pojęcie lub model. Unikać układu przypominającego konspekt, w którym kolejne definicje i tematy następują po sobie bez powiązania
 - ograniczać zdania dopowiadające, co należy od czego odróżnić, oraz zastrzeżenia o możliwych błędnych interpretacjach. Zachowywać je, gdy są potrzebne do zrozumienia pojęcia, zakresu badania lub ograniczeń wnioskowania
 - traktować redakcję użytkowniczki jako wzorzec preferowanego sposobu wyrażania myśli. Zachowywać jej sens i bezpośredniość, korygując gramatykę, pisownię oraz ewentualne nieścisłości merytoryczne
 - preferować minimalne i czytelne zmiany w istniejących plikach
