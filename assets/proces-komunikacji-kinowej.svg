@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="white"/>
+<text x="800" y="35" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="34" font-weight="400" fill="#555555">Szum: inne treści mogą rozpraszać uwagę widza</text>
+<rect x="400" y="85" width="800" height="140" rx="35" fill="#deedf7" stroke="black" stroke-width="2"/>
+<text x="340" y="155" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="52" font-weight="700" fill="#000000">1</text>
+<text x="800" y="131" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="46" font-weight="700" fill="#000000">Nadawca i kodowanie</text>
+<text x="800" y="185" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="36" font-weight="400" fill="#555555">Dystrybutor dobiera sceny i muzykę zwiastuna</text>
+<path d="M800 233 V263" fill="none" stroke="black" stroke-width="3"/><path d="M800 275 L791 261 L809 261 Z" fill="black"/>
+<rect x="400" y="285" width="800" height="140" rx="35" fill="#deedf7" stroke="black" stroke-width="2"/>
+<text x="340" y="355" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="52" font-weight="700" fill="#000000">2</text>
+<text x="800" y="331" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="46" font-weight="700" fill="#000000">Komunikat i medium</text>
+<text x="800" y="385" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="36" font-weight="400" fill="#555555">Zwiastun trafia do serwisu społecznościowego</text>
+<path d="M800 433 V463" fill="none" stroke="black" stroke-width="3"/><path d="M800 475 L791 461 L809 461 Z" fill="black"/>
+<rect x="400" y="485" width="800" height="140" rx="35" fill="#deedf7" stroke="black" stroke-width="2"/>
+<text x="340" y="555" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="52" font-weight="700" fill="#000000">3</text>
+<text x="800" y="531" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="46" font-weight="700" fill="#000000">Odbiorca i dekodowanie</text>
+<text x="800" y="585" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="36" font-weight="400" fill="#555555">Widz nadaje znaczenie zapowiedzi filmu</text>
+<path d="M800 633 V663" fill="none" stroke="black" stroke-width="3"/><path d="M800 675 L791 661 L809 661 Z" fill="black"/>
+<rect x="400" y="685" width="800" height="140" rx="35" fill="#deedf7" stroke="black" stroke-width="2"/>
+<text x="340" y="755" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="52" font-weight="700" fill="#000000">4</text>
+<text x="800" y="731" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="46" font-weight="700" fill="#000000">Sprzężenie zwrotne</text>
+<text x="800" y="785" text-anchor="middle" dominant-baseline="central" font-family="Carlito,Arial,sans-serif" font-size="36" font-weight="400" fill="#555555">Komentarz widza wraca do dystrybutora</text>
+</svg>

@@ -10,7 +10,11 @@ W niniejszej pracy przyjmuje się definicję komunikacji marketingowej Filla i T
 
 Przyjęcie tej definicji pozwala objąć analizą zarówno przekazy dystrybutorów i kin, jak i rozmowy widzów o filmach oraz wymianę opinii o seansach. W tym zakresie rozróżnia się oficjalne przekazy podmiotów branży i treści tworzone przez użytkowników. Rozróżnienie nadawców pozwala porównywać odbiór ich komunikatów, w tym ocenę autentyczności. Komunikacja marketingowa może prowadzić do zmian w postawach, emocjach i zachowaniach odbiorców.
 
-Fill i Turnbull wyróżniają cztery zadania komunikacji, określane skrótem DRIP: różnicowanie (*differentiate*), wzmacnianie (*reinforce*), informowanie (*inform*) i przekonywanie (*persuade*). Różnicowanie pozwala wyróżnić ofertę na tle konkurencji. Wzmacnianie podtrzymuje wcześniejsze przekazy i doświadczenia. Informowanie dostarcza wiedzy o cechach oferty i jej dostępności, co może zmniejszać postrzegane ryzyko zakupu. Przekonywanie zachęca do dalszego działania, w tym do zakupu. Autorzy wiążą dobór tych zadań z sytuacją odbiorcy i wskazują, że w danej kampanii można koncentrować się na jednym lub dwóch z nich.[^fill-zadania] Przykłady zastosowania tych zadań w komunikacji kinowej przedstawiono na rysunku 1. Ten sam materiał, na przykład zwiastun, może zarówno informować, jak i przekonywać.
+Komunikację marketingową można rozpatrywać z dwóch perspektyw. Model DRIP porządkuje jej zadania, czyli wyjaśnia, do czego służą przekazy. Model procesu komunikacji pokazuje natomiast, jak przekaz powstaje, dociera do odbiorcy i jak odbiorca może na niego odpowiedzieć. Oba ujęcia uzupełniają się i zostaną przedstawione na przykładzie promocji filmu.
+
+Fill i Turnbull wyróżniają cztery zadania komunikacji, określane skrótem DRIP: różnicowanie (*differentiate*), wzmacnianie (*reinforce*), informowanie (*inform*) i przekonywanie (*persuade*). Różnicowanie pozwala wyróżnić ofertę na tle konkurencji. Wzmacnianie podtrzymuje wcześniejsze przekazy i doświadczenia. Informowanie dostarcza wiedzy o cechach oferty i jej dostępności, co może zmniejszać postrzegane ryzyko zakupu. Przekonywanie zachęca do dalszego działania, w tym do zakupu. Autorzy wiążą dobór tych zadań z sytuacją odbiorcy i wskazują, że w danej kampanii można koncentrować się na jednym lub dwóch z nich.[^fill-zadania]
+
+Na potrzeby tej pracy zadania DRIP odniesiono do promocji filmu. Rysunek 1 przedstawia własne przykłady ich zastosowania w komunikacji kinowej. Ten sam materiał, na przykład zwiastun zawierający datę premiery i zachętę do zakupu biletu, może zarówno informować, jak i przekonywać.
 
 \figurestart
 
@@ -24,9 +28,25 @@ Fill i Turnbull wyróżniają cztery zadania komunikacji, określane skrótem DR
 
 Zadania DRIP nie wyznaczają obowiązkowej kolejności reakcji publiczności. Współczesny proces zakupowy ma charakter nieliniowy, choć można w nim wyróżnić rozważanie oferty, poszukiwanie i ocenę informacji, zakup oraz doświadczenia po zakupie.[^fill-proces] Dobór zadania komunikacji do sytuacji widza nie oznacza więc, że każdy widz przechodzi tę samą drogę do zakupu biletu.
 
-Natomiast przebieg komunikacji można uporządkować za pomocą modelu przedstawionego przez Albrecht, Green i Hoffman. Obejmuje on nadawcę, kodowanie, komunikat, medium, odbiorcę, dekodowanie, sprzężenie zwrotne i szum zakłócający odbiór.[^openstax-proces] Przykładem zastosowania modelu jest dystrybutor, który jako nadawca wybiera sceny i sposób montażu, kodując zapowiedź filmu w zwiastunie. Publikuje go w serwisie społecznościowym, a widz interpretuje przekaz na podstawie własnej wiedzy i doświadczenia. Uwagę odbiorcy mogą rozpraszać inne materiały. Komentarz skierowany do dystrybutora może dostarczyć mu informacji zwrotnej o odbiorze zapowiedzi. Sam zakup biletu nie informuje natomiast, który przekaz wpłynął na decyzję widza. Model pomaga rozdzielić przygotowanie komunikatu i jego interpretację; rozmowy między użytkownikami wymagają ponadto uwzględnienia tego, że odbiorca jednej wypowiedzi może stać się nadawcą kolejnej.
+Po omówieniu zadań komunikacji należy wyjaśnić, jak przebiega wymiana informacji między jej uczestnikami. Służy temu model procesu komunikacji przedstawiony przez Albrecht, Green i Hoffman. W tym ujęciu nadawca jest źródłem przekazu. Kodowanie polega na wyrażeniu myśli za pomocą słów lub symboli, w wyniku czego powstaje komunikat. Dociera on do odbiorcy przez medium, czyli kanał przekazu. Odbiorca dokonuje dekodowania, a więc nadaje komunikatowi znaczenie na podstawie własnej wiedzy i doświadczeń. Sprzężenie zwrotne dostarcza nadawcy informacji o reakcji odbiorcy. Proces może zakłócać szum, czyli czynniki utrudniające odbiór, interpretację przekazu lub udzielenie odpowiedzi.[^openstax-proces]
 
-Odbiorcy mogą stykać się z ofertą w wielu miejscach, dlatego poszczególne przekazy wymagają uzgodnienia. Zintegrowana komunikacja marketingowa polega na wykorzystaniu różnych form promocji do przekazywania spójnej wiadomości grupie docelowej.[^openstax-imc] Kotler, Keller i Chernev ujmują integrację szerzej, jako koordynowanie działań marketingowych wokół spójnej wartości i przekazu.[^kotler-imc] Sposób przedstawienia oferty powinien zatem odpowiadać temu, co organizacja rzeczywiście udostępnia odbiorcom, a materiały publikowane w różnych mediach powinny się uzupełniać.
+Własną ilustracją tego modelu w odniesieniu do promocji filmu jest publikacja zwiastuna w serwisie społecznościowym. Nadawcą jest w tym przykładzie dystrybutor. Dobierając sceny, tekst i muzykę, koduje przekaz o filmie. Zwiastun stanowi komunikat, a serwis społecznościowy jest medium. Odbiorcą jest widz, który podczas dekodowania rozpoznaje na przykład gatunek filmu i ocenia, czy zapowiedź go interesuje.
+
+Rolę szumu mogą pełnić inne treści wyświetlane w serwisie lub powiadomienia odrywające uwagę od zwiastuna. Komentarz widza skierowany do dystrybutora, zawierający pytanie o premierę albo ocenę zapowiedzi, stanowi przykład sprzężenia zwrotnego. Dystrybutor otrzymuje w ten sposób sygnał o odbiorze materiału i może na niego odpowiedzieć. To zastosowanie modelu przedstawiono w uproszczeniu na rysunku 2.
+
+\figurestart
+
+![](assets/proces-komunikacji-kinowej.png){width=15.5cm}
+
+\figuretitle{Rysunek 2. Proces komunikacji na przykładzie zwiastuna filmu}
+
+\figuresource{Źródło: opracowanie własne na podstawie: Albrecht, Green i Hoffman (2023, s. 446-449). Przykład dotyczący filmu stanowi własną ilustrację modelu}
+
+\figureend
+
+W mediach społecznościowych komunikacja może obejmować także rozmowy między widzami. Autor komentarza jest wówczas odbiorcą zwiastuna i nadawcą kolejnej wypowiedzi, którą interpretują inni użytkownicy. Samo opublikowanie materiału przez dystrybutora nie przesądza zatem o znaczeniu, jakie nada mu publiczność.
+
+Odbiorca styka się z przekazami w różnych kanałach, dlatego powinny one tworzyć spójny obraz oferty. Temu służy zintegrowana komunikacja marketingowa, czyli wykorzystanie różnych form promocji do przekazywania spójnej wiadomości grupie docelowej.[^openstax-imc] Szerszym pojęciem jest marketing zintegrowany, który według Kotlera, Kellera i Cherneva obejmuje koordynację wszystkich działań marketingowych, w tym tworzenia, komunikowania i dostarczania oferty odbiorcom.[^kotler-imc]
 
 Zastosowanie tych zasad do branży filmowej wymaga uwzględnienia sposobu powstawania filmu i docierania do widowni. Marketing filmu rozpoczyna się przy rozwijaniu projektu i obejmuje produkcję, dystrybucję oraz wyświetlanie. Kampania przed premierą stanowi część tego procesu. Uczestniczą w nim producenci, dystrybutorzy i podmioty prowadzące kina, a dotarcie filmu do publiczności zależy od ich współpracy.[^kerrigan-zakres]
 
