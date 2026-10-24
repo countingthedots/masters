@@ -2,6 +2,8 @@
 
 Stan kwerendy: 19 października 2026 r. Dokument towarzyszy [planowi rozdziału](plan-rozdzialu-01.md). Nie jest częścią tekstu pracy ani jej bibliografią końcową.
 
+Aktualizacja z 24 października 2026 r.: użytkowniczka przekazała pełny PDF pierwszego wydania Kerrigan, *Film marketing*, Butterworth-Heinemann, 2010, ISBN 978-0-7506-8683-9. [PDF, 276 stron](../../bibliografia/40-kerrigan-2010-film-marketing-pelna-ksiazka.pdf) i [pełny Markdown](../../bibliografia-md/40-kerrigan-2010-film-marketing-pelna-ksiazka.md). Przeanalizowano wybrane partie rozdziałów 6, 7 i 10 pod kątem 1.2. [Zakres lektury i ocena zastosowania](kerrigan-2010-zastosowanie-do-1-2.md). Poniższy opis K4 dotyczy nadal odrębnego, drugiego wydania z 2017 r., dostępnego tylko we fragmencie. Liczby plików i zakres kwerendy opisane niżej odnoszą się do stanu z 19 października.
+
 ## Co zostało pobrane i przeczytane
 
 Zgromadzono materiały z ośmiu książek: dwie pełne książki oraz udostępnione fragmenty sześciu pozostałych. Razem jest to dziewięć plików PDF i jeden EPUB. Wszystkie PDF-y zostały otwarte, sprawdzone i przekonwertowane skryptem `scripts/convert-bibliografia-pdfs.sh`. EPUB Wiktora przekonwertowano Pandokiem. Tekstowe kopie znajdują się w `bibliografia-md/`.
