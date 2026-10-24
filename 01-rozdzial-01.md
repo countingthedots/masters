@@ -76,6 +76,76 @@ W analizie komunikacji filmu poszukiwanie informacji, udostępnienie zwiastuna i
 
 W analizie komunikacji kinowej uwzględnia się zatem nadawcę, zadanie przekazu i rodzaj reakcji odbiorcy. Rozróżnienia te stanowią podstawę dalszego omówienia narzędzi komunikacji oraz ich odbioru przez publiczność. Kolejny podrozdział przedstawia ewolucję tych narzędzi w branży kinowej.
 
+**1.2. Ewolucja narzędzi komunikacji kinowej**
+
+Zwiastun wyświetlany przed seansem i ten sam materiał udostępniany w internecie przedstawiają widzowi zapowiedź filmu. Zmieniają się jednak okoliczności kontaktu z przekazem oraz możliwości jego dalszego rozpowszechniania. W kinie odbiorca ogląda materiał wybrany do pokazania przed projekcją. W internecie może sam go odszukać i przekazać innym osobom. Kerrigan opisuje tę zmianę, zestawiając tradycyjny obieg zwiastunów z ich publikowaniem na stronach filmów i w serwisach społecznościowych.[^ewolucja-zwiastun] Przykład ten pozwala rozpatrywać ewolucję komunikacji kinowej przez zmiany w dostępie do materiałów, udziale publiczności i sposobach organizowania kampanii.
+
+W tradycyjnej promocji filmu ważną rolę odgrywały materiały przygotowywane przez podmioty branży i przekazywane widzom bezpośrednio albo za pośrednictwem mediów. Kerrigan zalicza do podstawowych materiałów plakaty, zwiastuny, fotografie oraz zestawy prasowe. Wskazuje przy tym, że część materiałów powstaje na potrzeby kontaktów między uczestnikami rynku, a dopiero później służy przygotowaniu komunikacji skierowanej do publiczności.[^ewolucja-materialy] Obraz filmu przedstawiany widzowi zależał więc także od wcześniejszej współpracy osób odpowiedzialnych za jego produkcję, dystrybucję i promocję.
+
+Materiały dla prasy przygotowywano już podczas zdjęć. Osoba odpowiedzialna za publicity gromadziła między innymi informacje o produkcji, biografie twórców oraz nagrania wywiadów. Fotograf wykonywał zdjęcia, które mogły później trafić na plakat lub do publikacji prasowej. Dystrybutor korzystał z tego zaplecza podczas opracowywania kampanii premiery. Redakcje otrzymywały natomiast materiały potrzebne do przygotowania informacji o filmie.[^ewolucja-prasa] Dostęp widza do zapowiedzi zależał zatem zarówno od działań dystrybutora, jak i od decyzji mediów o publikacji.
+
+Reklama telewizyjna i prasowa pozwalała docierać do odbiorców wybierających określone programy i tytuły prasowe. Planowanie kampanii wymagało wyboru miejsc emisji, częstotliwości przekazu i terminu publikacji. Omawiając praktyki z pierwszej dekady XXI wieku, Kerrigan wskazuje, że telewizja nadal zajmowała ważne miejsce w kampaniach dużych premier, a rozwój bardziej wyspecjalizowanych mediów zwiększał możliwości kierowania komunikatów do węższych grup publiczności.[^ewolucja-reklama] Już w tym ujęciu dobór kanałów zależał od rodzaju filmu, jego odbiorców i dostępnego budżetu.
+
+Rozwój komunikacji internetowej zmieniał początkowo także sposób pracy z istniejącymi materiałami. Cyfrowy zestaw prasowy, określany skrótem EPK od *electronic press kit*, można było uzupełniać o kolejne informacje i recenzje bez ponownego przygotowywania i rozsyłania fizycznych pakietów. Dziennikarze otrzymywali teksty i nagrania w formie ułatwiającej ich wykorzystanie w publikacji lub emisji.[^ewolucja-epk] Zmiana dotyczyła w tym przypadku szybkości aktualizacji i dostarczania informacji, podczas gdy zadaniem zestawu pozostawało udostępnienie mediom materiałów o filmie.
+
+Kolejny zakres zmian obejmował kontakt z publicznością przez strony internetowe filmów. Walden analizuje rozwój tej formy promocji od połowy lat dziewięćdziesiątych XX wieku. Strony pozwalały gromadzić zwiastuny, publikacje medialne i materiały o powstawaniu filmu. Z czasem część z nich rozwijała także opowieść przedstawioną w utworze i proponowała odbiorcom dodatkowe sposoby poznawania jego świata.[^ewolucja-strony] Dla widza oznaczało to możliwość dotarcia do zestawu informacji o wybranym tytule w jednym miejscu, niezależnie od tego, czy wcześniej zobaczył reklamę lub przeczytał artykuł prasowy.
+
+W tym środowisku zmieniał się również sposób oglądania zwiastuna. Jego odbiór nie był już związany wyłącznie z wizytą w kinie lub zapowiedziami umieszczonymi na nośniku z innym filmem. Materiał można było wybrać samodzielnie, obejrzeć ponownie i udostępnić. Kerrigan zwraca uwagę, że zwiastuny dobrze nadawały się do przenoszenia między różnymi ekranami i kanałami, zachowując funkcję krótkiej zapowiedzi filmu.[^ewolucja-zwiastun] Internet rozszerzał więc dostęp do znanej wcześniej formy komunikacji i pozwalał widzowi uczestniczyć w jej dalszym obiegu.
+
+Rozbudowane strony umożliwiały także kontakt z filmem przez treści przygotowane specjalnie do odbioru online. W analizie Walden widać rozwój stron powiązanych z fabułą i interaktywnych doświadczeń towarzyszących premierom.[^ewolucja-strony-rozwoj] Z perspektywy komunikacji kinowej istotna była możliwość zainteresowania odbiorcy światem filmu jeszcze przed seansem. Rozpowszechnianie gotowej zapowiedzi uzupełniały działania wymagające jego udziału, na przykład samodzielnego odkrywania kolejnych informacji.
+
+Poszerzenie możliwości kontaktu z widzem dotyczyło także czasu prowadzenia komunikacji. W opisie kampanii z początku XXI wieku Kerrigan zestawia reklamę nasilającą się przed premierą z działaniami internetowymi rozpoczynanymi wcześniej i nastawionymi na angażowanie publiczności.[^ewolucja-czas] Wcześniejsza publikacja materiałów pozwalała stopniowo ujawniać informacje o filmie i podtrzymywać zainteresowanie kolejnymi zapowiedziami. Harmonogram komunikacji mógł dzięki temu obejmować dłuższy okres poprzedzający wejście filmu do repertuaru.
+
+Obok oficjalnych materiałów rozwijał się publiczny obieg opinii odbiorców. Rekomendacje znajomych były obecne w komunikacji o filmach także przed upowszechnieniem internetu. Zmiana polegała na tym, że wypowiedź widza mogła stać się dostępna osobom spoza jego bezpośredniego otoczenia. W omówieniu elektronicznej komunikacji ustnej, określanej jako eWOM, Kerrigan wskazuje na większą płynność internetowych sieci kontaktów i ich mniejszą zależność od relacji podtrzymywanych poza internetem.[^ewolucja-opinie] Opinia przestawała być związana wyłącznie z konkretną rozmową między znającymi się osobami.
+
+Serwisy społecznościowe ułatwiały przy tym rozpowszechnianie zarówno własnych wypowiedzi, jak i materiałów przygotowanych przez branżę. Kerrigan opisuje praktyki udostępniania zwiastunów na profilach użytkowników oraz kampanie zachęcające do przekazywania treści innym osobom.[^ewolucja-udzial] Widz mógł więc otrzymać zapowiedź filmu od znajomego, który wybrał ją spośród dostępnych materiałów i opatrzył własnym komentarzem. Dystrybutor przygotowywał pierwotny przekaz, ale jego dalsze dotarcie zależało także od decyzji odbiorców.
+
+Zmianę tę można odnieść do szerszego opisu komunikacji marketingowej przedstawionego przez Filla i Turnbull. Autorzy zwracają uwagę na rozwój treści tworzonych przez konsumentów i rozmów prowadzonych między członkami publiczności. W takim środowisku organizacja musi uwzględniać zarówno własne publikacje, jak i wypowiedzi innych uczestników komunikacji.[^ewolucja-fill] Dla promocji filmu oznacza to możliwość dalszego rozpowszechniania przygotowanego materiału wraz z ocenami i interpretacjami, których dystrybutor sam nie sformułował.
+
+Udział odbiorców mógł być również planowany jako część kampanii. Przykładem opisanym przez Kerrigan jest promocja *Cloverfield* z 2008 r., łącząca zwiastuny i plakaty z poszukiwaniem wskazówek online oraz aktywnością fanów. Działania internetowe prowadzono równolegle z tradycyjną reklamą przed premierą.[^ewolucja-cloverfield] Przypadek ten pokazuje możliwość połączenia wcześniejszych form promocji z udziałem publiczności w rozpowszechnianiu i rozwijaniu treści związanych z filmem.
+
+Współistnienie tych działań pomaga wyjaśnić podział na media płatne, własne i pozyskane, przedstawiony przez Chaffeya i Ellis-Chadwick. Zakup reklamy zapewnia płatne dotarcie do odbiorców. Strona filmu lub obecność prowadzona przez dystrybutora w serwisie społecznościowym umożliwia publikowanie własnych materiałów. Rozgłos, komentarze i udostępnienia pochodzące od innych osób tworzą natomiast kolejne możliwości dotarcia.[^ewolucja-media] Ten sam zwiastun może zatem zostać zamieszczony na oficjalnej stronie, wykorzystany w reklamie i przekazany dalej przez widza. Są to powiązane sposoby rozpowszechniania materiału, które mogą występować w jednej kampanii.
+
+Możliwość kontaktu przez internet dostarczała branży również informacji o zainteresowaniach publiczności. Kerrigan opisuje uruchomioną w 2006 r. współpracę MySpace i Twentieth Century Fox, w ramach której użytkownicy zgłaszali zainteresowanie pokazami przedpremierowymi. Takie działania pozwalały dystrybutorowi poznawać preferencje uczestników i wykorzystywać je przy planowaniu kolejnych kampanii.[^ewolucja-dane-widzow] Kontakt promocyjny stawał się więc także sposobem zbierania informacji potrzebnych do doboru dalszych przekazów.
+
+Szersza dostępność danych dotyczyła także reakcji na publikowane treści. Solomons, Kliphuis i Wadley omawiają możliwość obserwowania zachowań odbiorców w czasie i dostosowywania działań na podstawie wyników. Podkreślają przy tym, że pojedyncza liczba obserwujących lub reakcji ma ograniczoną wartość bez odniesienia do celu i zmian zachodzących w dłuższym okresie.[^ewolucja-pomiar] W komunikacji kinowej takie dane mogą pomagać ocenić, które materiały przyciągają uwagę i są rozpowszechniane. Ustalenie związku z zakupem biletu wymaga jednak informacji o tej konkretnej reakcji, zgodnie z rozróżnieniem przyjętym w 1.1.
+
+Opisane zmiany tworzą warunki do łączenia komunikacji internetowej z kontaktem przez pozostałe media i samo kino. Chaffey i Ellis-Chadwick ujmują działania cyfrowe jako część szerszej komunikacji prowadzonej w różnych kanałach.[^ewolucja-integracja] W odniesieniu do filmu widz może poznać zapowiedź podczas seansu, później samodzielnie odszukać zwiastun, a następnie zetknąć się z komentarzem innego odbiorcy. Jest to przykład możliwego kontaktu z kampanią wykorzystującą kilka sposobów dotarcia, a nie obowiązkowa kolejność działań każdego widza.
+
+Ewolucja komunikacji kinowej obejmuje zatem rozszerzenie dostępu do materiałów, publiczny obieg wypowiedzi widzów oraz wykorzystanie informacji o ich reakcjach przy planowaniu promocji. Plakat, zwiastun i materiały prasowe zachowują zastosowanie, ale mogą krążyć wśród odbiorców razem z tworzonymi przez nich treściami. Widz styka się wówczas z wypowiedziami dystrybutora, mediów i innych użytkowników. Taka sytuacja prowadzi do pytania, jak ocenia ich autentyczność i wiarygodność, które stanowi przedmiot kolejnego podrozdziału.
+
+[^ewolucja-zwiastun]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann, s. 140-142. W odwołaniach do tego wydania podano numerację drukowaną.
+
+[^ewolucja-materialy]: Kerrigan, F. (2010). *Film marketing*, s. 123-125.
+
+[^ewolucja-prasa]: Kerrigan, F. (2010). *Film marketing*, s. 127-129.
+
+[^ewolucja-reklama]: Kerrigan, F. (2010). *Film marketing*, s. 146-147.
+
+[^ewolucja-epk]: Kerrigan, F. (2010). *Film marketing*, s. 127-128.
+
+[^ewolucja-strony]: Walden, K. L. (2023). 404: file not found web archives and the challenges of preserving digital film promotion. *Historical Journal of Film, Radio and Television*, 43(1), 184-208. <https://doi.org/10.1080/01439685.2022.2096309>. Korzystano z pełnego tekstu opublikowanego online w 2022 r., s. 2-3 z odrębną paginacją. Kolejne odwołanie dotyczy tej samej wersji.
+
+[^ewolucja-strony-rozwoj]: Walden, K. L. (2023). *404: file not found web archives and the challenges of preserving digital film promotion*, s. 15-16 wersji opublikowanej online w 2022 r.
+
+[^ewolucja-czas]: Kerrigan, F. (2010). *Film marketing*, s. 148.
+
+[^ewolucja-opinie]: Kerrigan, F. (2010). *Film marketing*, s. 115-117.
+
+[^ewolucja-udzial]: Kerrigan, F. (2010). *Film marketing*, s. 200-201.
+
+[^ewolucja-fill]: Fill, C. i Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson, s. 12-13.
+
+[^ewolucja-cloverfield]: Kerrigan, F. (2010). *Film marketing*, s. 201-202.
+
+[^ewolucja-media]: Chaffey, D. i Ellis-Chadwick, F. (2022). *Digital marketing* (8th ed.). Pearson, s. 6-7.
+
+[^ewolucja-dane-widzow]: Kerrigan, F. (2010). *Film marketing*, s. 201.
+
+[^ewolucja-pomiar]: Solomons, D., Kliphuis, T. i Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business, s. 624-625.
+
+[^ewolucja-integracja]: Chaffey, D. i Ellis-Chadwick, F. (2022). *Digital marketing*, s. 5-6.
+
 [^kotler-podstawy]: Kotler, P., Keller, K. L. i Chernev, A. (2022). *Marketing management* (16th Global ed.). Pearson, s. 29-31.
 
 [^kotler-imc]: Kotler, P., Keller, K. L. i Chernev, A. (2022). *Marketing management*, s. 38-40.
