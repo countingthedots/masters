@@ -22,4 +22,8 @@ header-includes: |
   \setstretch{1.5}
   \usepackage{parskip}
   \setlength{\parskip}{0pt}
+  \newcommand{\figuretitle}[1]{\par{\centering\fontsize{12}{14}\selectfont\bfseries #1\par}}
+  \newcommand{\figuresource}[1]{\par{\raggedright\fontsize{10}{12}\selectfont\noindent #1\par}}
+  \newcommand{\figurestart}{\par\noindent\begin{minipage}{\linewidth}\setlength{\parindent}{0pt}\centering}
+  \newcommand{\figureend}{\end{minipage}\par}
 ---

@@ -608,6 +608,7 @@ def configure_with_python_docx(path: Path) -> None:
         paragraph_text = paragraph.text.strip()
         num_pr = paragraph._p.pPr.numPr if paragraph._p.pPr is not None else None
         if paragraph._p.xpath(".//w:drawing"):
+            paragraph.paragraph_format.keep_with_next = True
             paragraph.paragraph_format.left_indent = Cm(0)
             paragraph.paragraph_format.right_indent = Cm(0)
             paragraph.paragraph_format.first_line_indent = Cm(0)
@@ -615,6 +616,8 @@ def configure_with_python_docx(path: Path) -> None:
             paragraph.paragraph_format.space_before = Pt(6)
             paragraph.paragraph_format.space_after = Pt(3)
         elif paragraph_text.startswith("Rysunek "):
+            paragraph.paragraph_format.keep_with_next = True
+            paragraph.paragraph_format.keep_together = True
             paragraph.paragraph_format.left_indent = Cm(0)
             paragraph.paragraph_format.right_indent = Cm(0)
             paragraph.paragraph_format.first_line_indent = Cm(0)
@@ -623,6 +626,7 @@ def configure_with_python_docx(path: Path) -> None:
             paragraph.paragraph_format.space_after = Pt(0)
             paragraph.paragraph_format.line_spacing = 1.0
         elif paragraph_text.startswith("Źródło:"):
+            paragraph.paragraph_format.keep_together = True
             paragraph.paragraph_format.left_indent = Cm(0)
             paragraph.paragraph_format.right_indent = Cm(0)
             paragraph.paragraph_format.first_line_indent = Cm(0)
