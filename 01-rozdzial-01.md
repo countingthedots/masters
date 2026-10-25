@@ -110,7 +110,7 @@ Branża zyskiwała również informacje o zainteresowaniach publiczności dzięk
 
 Dystrybutorzy mogli także obserwować reakcje na publikowane treści. Solomons, Kliphuis i Wadley opisują analizowanie zachowań odbiorców w czasie i dostosowywanie działań na podstawie wyników. Podkreślają przy tym, że pojedyncza liczba obserwujących lub reakcji ma ograniczoną wartość bez odniesienia do kontekstu i zmian zachodzących w dłuższym okresie.[^ewolucja-pomiar] W komunikacji kinowej takie dane mogą pomagać ocenić, które materiały przyciągają uwagę i są rozpowszechniane. Ustalenie związku z zakupem biletu wymaga jednak informacji o tej konkretnej reakcji, zgodnie z rozróżnieniem przyjętym w 1.1.
 
-Wraz z rozwojem komunikacji kinowej widzowie zyskali szerszy dostęp do materiałów i udział w publicznym obiegu opinii. Dystrybutorzy mogli wcześniej rozpoczynać działania promocyjne oraz planować je z wykorzystaniem danych o odbiorcach. Plakat, zwiastun i materiały prasowe zachowują zastosowanie, krążąc także razem z treściami tworzonymi przez użytkowników. Widz styka się wówczas z wypowiedziami dystrybutora, mediów i innych odbiorców. Pytanie o to, jak ocenia autentyczność i wiarygodność tych wypowiedzi, stanowi przedmiot kolejnego podrozdziału.
+Rozwój komunikacji kinowej rozszerzył dostęp widzów do materiałów i publicznego obiegu opinii. Pozwolił też wcześniej rozpoczynać kampanie i planować je na podstawie danych o odbiorcach. Widz styka się z przekazami dystrybutora, mediów i innych użytkowników. Sposób oceniania ich autentyczności i wiarygodności zostanie omówiony w kolejnym podrozdziale.
 
 [^ewolucja-zwiastun]: Kerrigan, F. (2010). *Film marketing*, s. 140-142.
 
