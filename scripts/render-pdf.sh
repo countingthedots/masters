@@ -54,4 +54,4 @@ while IFS= read -r relative_path || [ -n "$relative_path" ]; do
 done < "$SOURCE_LIST"
 
 printf 'Rendering thesis sources -> %s\n' "$OUTPUT"
-pandoc -f markdown "$TEMP_FILE" --resource-path "$REPO_ROOT" --pdf-engine=tectonic --output "$OUTPUT"
+pandoc -f markdown "$TEMP_FILE" --resource-path "$REPO_ROOT" --lua-filter "$REPO_ROOT/scripts/thesis-headings.lua" --toc-depth=2 --pdf-engine=tectonic --output "$OUTPUT"

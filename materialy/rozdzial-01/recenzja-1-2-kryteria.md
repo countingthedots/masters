@@ -9,7 +9,7 @@ Recenzent nie edytuje plików ani nie wykonuje commitów. Przekazuje werdykt i k
 ## Przedmiot oceny i wzorce
 
 - `AGENTS.md`: obowiązujące reguły pracy, języka, źródeł i zakresu.
-- `01-rozdzial-01.md`: cały aktualny rozdział. Oceniany tekst rozpoczyna się od pogrubionego tytułu 1.2. Tekst 1.1 jest wcześniejszą zatwierdzoną częścią i wzorcem stylu, nie przedmiotem samodzielnej przebudowy.
+- `01-02-ewolucja-narzedzi-komunikacji-kinowej.md`: oceniany tekst podrozdziału 1.2, po przeniesieniu do osobnego pliku. Tekst 1.1 w `01-rozdzial-01.md` jest wcześniejszą zatwierdzoną częścią i wzorcem stylu, nie przedmiotem samodzielnej przebudowy.
 - `Konspekt_pracy_magisterskiej.md`: cele pracy, hipotezy i granice rozdziałów.
 - `materialy/rozdzial-01/plan-podrozdzialu-1-2.md`: zaakceptowany kierunek wywodu.
 - `materialy/rozdzial-01/kerrigan-2010-zastosowanie-do-1-2.md`: zakres lektury głównego źródła, mapowanie stron i ocena przydatności.

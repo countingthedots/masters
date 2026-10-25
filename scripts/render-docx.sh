@@ -375,12 +375,14 @@ def configure_styles(styles_path: Path) -> None:
             size=UEP_HEADING_2_SIZE,
             bold=True,
         )
+        ensure_child(ensure_child(heading_2, "pPr"), "outlineLvl").set(w_tag("val"), "1")
     for style_id, size, bold in (
         ("Title", "40", True),
         ("Subtitle", "28", False),
         ("Author", UEP_BODY_SIZE, False),
         ("TOCHeading", UEP_HEADING_1_SIZE, True),
         ("TOC1", UEP_BODY_SIZE, False),
+        ("TOC2", UEP_BODY_SIZE, False),
         ("FootnoteText", FONT_10_PT, False),
     ):
         style = styles.get(style_id)
@@ -429,7 +431,7 @@ def populate_toc(document_root: ET.Element) -> None:
     body = document_root.find("w:body", NS)
     if body is None:
         return
-    headings: list[tuple[str, str]] = []
+    headings: list[tuple[str, str, int]] = []
     pending_bookmark = ""
     for child in list(body):
         if child.tag == w_tag("bookmarkStart"):
@@ -438,7 +440,7 @@ def populate_toc(document_root: ET.Element) -> None:
         if child.tag != w_tag("p"):
             continue
         style = child.find("w:pPr/w:pStyle", NS)
-        if style is None or style.get(w_tag("val")) != "Heading1":
+        if style is None or style.get(w_tag("val")) not in {"Heading1", "Heading2"}:
             continue
         inline_bookmark = child.find("w:bookmarkStart", NS)
         if inline_bookmark is not None:
@@ -446,7 +448,8 @@ def populate_toc(document_root: ET.Element) -> None:
         if not pending_bookmark:
             continue
         title = "".join(text.text or "" for text in child.findall(".//w:t", NS))
-        headings.append((title, pending_bookmark))
+        level = 2 if style.get(w_tag("val")) == "Heading2" else 1
+        headings.append((title, pending_bookmark, level))
         pending_bookmark = ""
 
     toc = body.find("w:sdt", NS)
@@ -458,22 +461,22 @@ def populate_toc(document_root: ET.Element) -> None:
     children = list(content)
     for child in children[1:]:
         content.remove(child)
-    for index, (title, bookmark_name) in enumerate(headings):
+    for index, (title, bookmark_name, level) in enumerate(headings):
         paragraph = ET.SubElement(content, w_tag("p"))
         ppr = ET.SubElement(paragraph, w_tag("pPr"))
-        ET.SubElement(ppr, w_tag("pStyle")).set(w_tag("val"), "TOC1")
+        ET.SubElement(ppr, w_tag("pStyle")).set(w_tag("val"), f"TOC{level}")
         tabs = ET.SubElement(ppr, w_tag("tabs"))
         tab = ET.SubElement(tabs, w_tag("tab"))
         tab.set(w_tag("val"), "right")
         tab.set(w_tag("leader"), "dot")
-        tab.set(w_tag("pos"), str(TABLE_WIDTH_TWIPS))
+        tab.set(w_tag("pos"), str(TABLE_WIDTH_TWIPS - (283 if level == 2 else 0)))
         if index == 0:
             outer_run = ET.SubElement(paragraph, w_tag("r"))
             outer_begin = ET.SubElement(outer_run, w_tag("fldChar"))
             outer_begin.set(w_tag("fldCharType"), "begin")
             outer_instruction = ET.SubElement(outer_run, w_tag("instrText"))
             outer_instruction.set(f"{{{XML_NS}}}space", "preserve")
-            outer_instruction.text = ' TOC \\o "1-1" \\h \\z \\u '
+            outer_instruction.text = ' TOC \\o "1-2" \\h \\z \\u '
             ET.SubElement(outer_run, w_tag("fldChar")).set(
                 w_tag("fldCharType"), "separate"
             )
@@ -584,6 +587,7 @@ def configure_with_python_docx(path: Path) -> None:
         ("Author", 12),
         ("TOCHeading", 14),
         ("TOC1", 12),
+        ("TOC2", 12),
     ):
         style_font(style_id, size, style_id in {"Title", "TOCHeading"})
         style_paragraph(
@@ -650,10 +654,22 @@ def configure_with_python_docx(path: Path) -> None:
             paragraph.paragraph_format.right_indent = Cm(0)
             paragraph.paragraph_format.first_line_indent = Cm(0.5)
             paragraph.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-        elif style_id in {"Heading1", "Heading2", "TOCHeading", "TOC1"}:
+        elif style_id in {"Heading1", "Heading2", "TOCHeading", "TOC1", "TOC2"}:
             paragraph.paragraph_format.left_indent = Cm(0)
             paragraph.paragraph_format.right_indent = Cm(0)
             paragraph.paragraph_format.first_line_indent = Cm(0)
+    for paragraph in document.element.xpath(".//w:sdtContent/w:p"):
+        style = paragraph.find(qn("w:pPr"))
+        if style is None:
+            continue
+        style_id = style.find(qn("w:pStyle"))
+        if style_id is not None and style_id.get(qn("w:val")) == "TOC2":
+            indent = style.find(qn("w:ind"))
+            if indent is None:
+                indent = OxmlElement("w:ind")
+                style.append(indent)
+            indent.set(qn("w:left"), "283")
+            indent.set(qn("w:firstLine"), "0")
 
     numbering = document.part.numbering_part.element
     for level in numbering.xpath(".//w:lvl[@w:ilvl='0']"):
@@ -803,14 +819,14 @@ def refresh_cached_toc_pages(path: Path) -> None:
         heading_pages: dict[str, str] = {}
         for paragraph in body.findall("w:p", NS):
             style = paragraph.find("w:pPr/w:pStyle", NS)
-            if style is None or style.get(w_tag("val")) != "Heading1":
+            if style is None or style.get(w_tag("val")) not in {"Heading1", "Heading2"}:
                 continue
             title = " ".join(
                 "".join(text.text or "" for text in paragraph.findall(".//w:t", NS)).split()
             )
             for page_number, page_text in enumerate(pages, start=1):
                 normalized_page = " ".join(page_text.split())
-                if normalized_page.startswith(title):
+                if not normalized_page.startswith("Spis treści") and title in normalized_page:
                     heading_pages[title] = str(page_number)
                     break
             if title not in heading_pages:
@@ -886,6 +902,9 @@ subprocess.run(
         tmp_path,
         "--resource-path",
         str(repo_root),
+        "--lua-filter",
+        str(repo_root / "scripts" / "thesis-headings.lua"),
+        "--toc-depth=2",
         "--output",
         str(output),
     ],

@@ -15,9 +15,9 @@ while IFS= read -r relative_path || [ -n "$relative_path" ]; do
     echo "Style check: $relative_path ma $h1_count nagłówków H1, oczekiwano 1" >&2
     ok=0
   fi
-  h_lower=$(grep -c "^###" "$file" || true)
+  h_lower=$(grep -c "^##" "$file" || true)
   if [ "$h_lower" -ne 0 ]; then
-    echo "Style check: $relative_path zawiera nagłówki poniżej poziomu podrozdziałów (###), co jest niedozwolone" >&2
+    echo "Style check: $relative_path zawiera nagłówki niższego poziomu niż H1, co jest niedozwolone" >&2
     ok=0
   fi
   if grep -q " — \| – \| -- " "$file"; then
