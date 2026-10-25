@@ -1,2 +1,2 @@
-01-rozdzial-01.md
+01-01-istota-i-specyfika-komunikacji-marketingowej-w-branzy-kinowej.md
 01-02-ewolucja-narzedzi-komunikacji-kinowej.md
