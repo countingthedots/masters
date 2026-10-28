@@ -58,7 +58,7 @@ Kerrigan wiąże orientację na odbiorcę w marketingu filmowym z rozpoznaniem o
 
 W odniesieniu do komunikacji filmu oznacza to potrzebę zgodności zapowiedzi z charakterem utworu. Można to zilustrować przykładem zwiastuna dramatu z elementami komediowymi, zmontowanego wyłącznie z zabawnych scen. Taki materiał może przyciągnąć osoby oczekujące lekkiej rozrywki. Podczas seansu zobaczą one jednak poważniejszą historię, niż zapowiadał zwiastun.
 
-Dotychczasowe przykłady dotyczyły przede wszystkim zainteresowania filmem. Wizyta w kinie wymaga jednak także wyboru miejsca i terminu seansu, dlatego w tej pracy rozróżnia się komunikację filmu i komunikację kina. Komunikacja filmu dotyczy utworu, jego historii, twórców, gatunku i charakteru. Komunikacja kina przedstawia ofertę miejsca i usługi, w tym repertuar, godziny seansów, cenę biletu oraz warunki projekcji.
+Dotychczasowe przykłady dotyczyły przede wszystkim zainteresowania filmem. Wizyta w kinie wymaga jednak także wyboru miejsca i terminu seansu, dlatego w tej pracy rozróżnia się komunikację filmu i komunikację kina. Komunikacja filmu dotyczy utworu, jego historii, twórców, gatunku i charakteru. Komunikacja kina przedstawia ofertę miejsca i usługi, w tym repertuar, godziny seansów, cenę biletu oraz warunki projekcji. Łącznie oba zakresy określa się w tej pracy jako komunikację kinową.
 
 Oba zakresy często się przecinają. Kino wykorzystujące zwiastun do zaproszenia na konkretny seans przedstawia jednocześnie film i własną ofertę. Dystrybutor może z kolei połączyć zapowiedź premiery z informacją o kinach, w których odbędą się pokazy. Jeden materiał może więc dotyczyć zarówno filmu, jak i oferty kina, zależnie od swojej treści i celu.
 
