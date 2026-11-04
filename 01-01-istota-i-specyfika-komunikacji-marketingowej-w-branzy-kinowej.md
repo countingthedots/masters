@@ -10,7 +10,7 @@ W niniejszej pracy przyjmuje się definicję komunikacji marketingowej Filla i T
 
 Przyjęcie tej definicji pozwala objąć analizą zarówno przekazy dystrybutorów i kin, jak i rozmowy widzów o filmach oraz wymianę opinii o seansach. W tym zakresie rozróżnia się oficjalne przekazy podmiotów branży i treści tworzone przez użytkowników. Rozróżnienie nadawców pozwala porównywać odbiór ich komunikatów, w tym ocenę autentyczności. Komunikacja marketingowa może prowadzić do zmian w postawach, emocjach i zachowaniach odbiorców.
 
-Komunikację marketingową można rozpatrywać z dwóch perspektyw. Model DRIP porządkuje jej zadania, czyli wyjaśnia, do czego służą przekazy. Model procesu komunikacji pokazuje natomiast, jak przekaz powstaje, dociera do odbiorcy i jak odbiorca może na niego odpowiedzieć. Oba ujęcia uzupełniają się i zostaną przedstawione na przykładzie promocji filmu.
+Komunikację marketingową można rozpatrywać z dwóch perspektyw. Model DRIP porządkuje jej zadania, czyli wyjaśnia, do czego służą przekazy. Model procesu komunikacji pokazuje natomiast, jak przekaz powstaje, dociera do odbiorcy i jak odbiorca może na niego odpowiedzieć. Oba ujęcia uzupełniają się w analizie promocji filmu.
 
 Fill i Turnbull wyróżniają cztery zadania komunikacji, określane skrótem DRIP: różnicowanie (*differentiate*), wzmacnianie (*reinforce*), informowanie (*inform*) i przekonywanie (*persuade*). Różnicowanie pozwala wyróżnić ofertę na tle konkurencji. Wzmacnianie podtrzymuje wcześniejsze przekazy i doświadczenia. Informowanie dostarcza wiedzy o cechach oferty i jej dostępności, co może zmniejszać postrzegane ryzyko zakupu. Przekonywanie zachęca do dalszego działania, w tym do zakupu. Autorzy wiążą dobór tych zadań z sytuacją odbiorcy i wskazują, że w danej kampanii można koncentrować się na jednym lub dwóch z nich.[^fill-zadania]
 
@@ -74,40 +74,40 @@ Rozmowy o filmie, udostępnianie materiałów i zakup biletu są różnymi reakc
 
 W analizie komunikacji filmu poszukiwanie informacji, udostępnienie zwiastuna i zakup biletu rozpatruje się osobno. Widz może udostępnić zapowiedź, nie planując seansu, albo kupić bilet bez wcześniejszej rozmowy o filmie.
 
-W analizie komunikacji kinowej uwzględnia się zatem nadawcę, zadanie przekazu i rodzaj reakcji odbiorcy. Rozróżnienia te stanowią podstawę dalszego omówienia narzędzi komunikacji oraz ich odbioru przez publiczność. Kolejny podrozdział przedstawia ewolucję tych narzędzi w branży kinowej.
+W analizie komunikacji kinowej uwzględnia się zatem nadawcę, zadanie przekazu i rodzaj reakcji odbiorcy. Rozróżnienia te stanowią podstawę dalszego omówienia narzędzi komunikacji oraz ich odbioru przez publiczność.
 
-[^kotler-podstawy]: Kotler, P., Keller, K. L. i Chernev, A. (2022). *Marketing management* (16th Global ed.). Pearson, s. 29-31.
+[^kotler-podstawy]: Kotler, P., Keller, K. L., & Chernev, A. (2022). *Marketing management* (16th global ed.). Pearson. Cytowane s. 29-31.
 
-[^kotler-imc]: Kotler, P., Keller, K. L. i Chernev, A. (2022). *Marketing management*, s. 38-40.
+[^kotler-imc]: Kotler, P., Keller, K. L., & Chernev, A. (2022). *Marketing management* (16th global ed.). Pearson. Cytowane s. 38-40.
 
-[^fill-definicja]: Fill, C. i Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson, s. 7-8.
+[^fill-definicja]: Fill, C., & Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson. Cytowane s. 7-8.
 
-[^fill-reakcje]: Fill, C. i Turnbull, S. (2023). *Marketing communications*, s. 8-9.
+[^fill-reakcje]: Fill, C., & Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson. Cytowane s. 8-9.
 
-[^fill-zadania]: Fill, C. i Turnbull, S. (2023). *Marketing communications*, s. 10-12.
+[^fill-zadania]: Fill, C., & Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson. Cytowane s. 10-12.
 
-[^openstax-imc]: Albrecht, M. G., Green, M. i Hoffman, L. (2023). *Principles of marketing*, s. 450-452.
+[^openstax-imc]: Albrecht, M. G., Green, M., & Hoffman, L. (2023). *Principles of marketing*. OpenStax. <https://openstax.org/details/books/principles-marketing>. Cytowane s. 450-452.
 
-[^kerrigan-ryzyko]: Kerrigan, F. (2017). *Film marketing* (2nd ed.). Routledge, s. 7. <https://doi.org/10.4324/9781315795287>.
+[^kerrigan-ryzyko]: Kerrigan, F. (2017). *Film marketing* (2nd ed.). Routledge. <https://doi.org/10.4324/9781315795287>. Cytowane s. 7.
 
-[^kerrigan-zakres]: Kerrigan, F. (2017). *Film marketing*, s. 6-8.
+[^kerrigan-zakres]: Kerrigan, F. (2017). *Film marketing* (2nd ed.). Routledge. <https://doi.org/10.4324/9781315795287>. Cytowane s. 6-8.
 
-[^kerrigan-wartosc]: Kerrigan, F. (2017). *Film marketing*, s. 4-5.
+[^kerrigan-wartosc]: Kerrigan, F. (2017). *Film marketing* (2nd ed.). Routledge. <https://doi.org/10.4324/9781315795287>. Cytowane s. 4-5.
 
-[^kerrigan-wartosc-uzycie]: Kerrigan, F. (2017). *Film marketing*, s. 8.
+[^kerrigan-wartosc-uzycie]: Kerrigan, F. (2017). *Film marketing* (2nd ed.). Routledge. <https://doi.org/10.4324/9781315795287>. Cytowane s. 8.
 
-[^kerrigan-publicznosc]: Kerrigan, F. (2017). *Film marketing*, s. 5.
+[^kerrigan-publicznosc]: Kerrigan, F. (2017). *Film marketing* (2nd ed.). Routledge. <https://doi.org/10.4324/9781315795287>. Cytowane s. 5.
 
-[^fill-proces]: Fill, C. i Turnbull, S. (2023). *Marketing communications*, s. 14-15.
+[^fill-proces]: Fill, C., & Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson. Cytowane s. 14-15.
 
-[^openstax-proces]: Albrecht, M. G., Green, M. i Hoffman, L. (2023). *Principles of marketing*. OpenStax, s. 446-449. <https://openstax.org/details/books/principles-marketing>.
+[^openstax-proces]: Albrecht, M. G., Green, M., & Hoffman, L. (2023). *Principles of marketing*. OpenStax. <https://openstax.org/details/books/principles-marketing>. Cytowane s. 446-449.
 
-[^dobro-doswiadczenia]: Dalpra, L. (2025). Experience goods, reinforcement learning, and social networks. *Journal of Economic Interaction and Coordination*, 20, 1021-1043, zwłaszcza s. 1022. <https://doi.org/10.1007/s11403-025-00447-1>.
+[^dobro-doswiadczenia]: Dalpra, L. (2025). Experience goods, reinforcement learning, and social networks. *Journal of Economic Interaction and Coordination, 20*(4), 1021-1043. <https://doi.org/10.1007/s11403-025-00447-1>. Cytowane s. 1022.
 
-[^hart-pojecia]: Hart, A., Kerrigan, F. i vom Lehn, D. (2016). Experiencing film: Subjective personal introspection and popular film consumption. *International Journal of Research in Marketing*, 33(2), 375-391. <https://doi.org/10.1016/j.ijresmar.2015.08.005>. Korzystano z zaakceptowanego manuskryptu, s. 8 pliku PDF. Numery stron w kolejnych odwołaniach do tej publikacji dotyczą tego samego pliku.
+[^hart-pojecia]: Hart, A., Kerrigan, F., & vom Lehn, D. (2016). Experiencing film: Subjective personal introspection and popular film consumption. *International Journal of Research in Marketing, 33*(2), 375-391. <https://doi.org/10.1016/j.ijresmar.2015.08.005>. Cytowane s. 8 pliku zaakceptowanego manuskryptu.
 
-[^hart-srodowisko]: Hart, A., Kerrigan, F. i vom Lehn, D. (2016). *Experiencing film*, s. 39-40 oraz część 3.1.
+[^hart-srodowisko]: Hart, A., Kerrigan, F., & vom Lehn, D. (2016). Experiencing film: Subjective personal introspection and popular film consumption. *International Journal of Research in Marketing, 33*(2), 375-391. <https://doi.org/10.1016/j.ijresmar.2015.08.005>. Cytowane s. 39-40 pliku zaakceptowanego manuskryptu oraz część 3.1.
 
-[^kerrigan-yalkin-odbior]: Kerrigan, F. i Yalkin, C. (2009). Revisiting the role of critical reviews in film marketing. W: E. Hemmungs Wirtén i M. Ryman (red.), *Mashing-up culture: The rise of user-generated content*. Uppsala University. Korzystano z wersji autorskiej w repozytorium UAL Research Online, s. 9-10. <https://ualresearchonline.arts.ac.uk/id/eprint/16148/>.
+[^kerrigan-yalkin-odbior]: Kerrigan, F., & Yalkin, C. (2009). *Revisiting the role of critical reviews in film marketing* [Referat konferencyjny, wersja autorska]. COUNTER workshop Mashing-up Culture, Uppsala University, Szwecja. <https://ualresearchonline.arts.ac.uk/id/eprint/16148/>. Cytowane s. 9-10 wersji autorskiej w repozytorium UAL Research Online.
 
-[^hart-po-seansie]: Hart, A., Kerrigan, F. i vom Lehn, D. (2016). *Experiencing film*, s. 36.
+[^hart-po-seansie]: Hart, A., Kerrigan, F., & vom Lehn, D. (2016). Experiencing film: Subjective personal introspection and popular film consumption. *International Journal of Research in Marketing, 33*(2), 375-391. <https://doi.org/10.1016/j.ijresmar.2015.08.005>. Cytowane s. 36 pliku zaakceptowanego manuskryptu.

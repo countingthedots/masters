@@ -19,6 +19,7 @@ header-includes: |
   \brokenpenalty=10000
   \setlength{\parindent}{0.5cm}
   \usepackage{setspace}
+  \usepackage{tabularx}
   \setstretch{1.5}
   \usepackage{parskip}
   \setlength{\parskip}{0pt}

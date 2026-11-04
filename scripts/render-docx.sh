@@ -68,7 +68,7 @@ ET.register_namespace("w", WORD_NS)
 ET.register_namespace("r", REL_NS)
 
 TABLE_COLUMN_WEIGHTS = [
-    [1.0, 1.25, 1.15],
+    [0.23, 0.24, 0.53],
 ]
 TABLE_WIDTH_TWIPS = 9071
 FONT_10_PT = "20"
@@ -169,7 +169,7 @@ def latex_table_to_markdown(match: re.Match[str]) -> str:
 def convert_docx_markdown(text: str) -> str:
     text = strip_yaml(text)
     text = re.sub(
-        r"\\begin\{xltabular\}\{\\linewidth\}\{.*?\}\n(.*?)\\end\{xltabular\}",
+        r"\\begin\{(?:xltabular|tabularx)\}\{\\linewidth\}\{.*?\}\n(.*?)\\end\{(?:xltabular|tabularx)\}",
         latex_table_to_markdown,
         text,
         flags=re.S,
@@ -225,6 +225,8 @@ def set_table_font_size(table: ET.Element) -> None:
         set_paragraph_default_size(paragraph)
         ppr = ensure_first_child(paragraph, "pPr")
         ensure_child(ppr, "jc").set(w_tag("val"), "left")
+        ensure_child(ppr, "keepNext")
+        ensure_child(ppr, "keepLines")
         ensure_child(ppr, "ind").set(w_tag("firstLine"), "0")
         spacing = ensure_child(ppr, "spacing")
         spacing.set(w_tag("before"), "0")
@@ -250,6 +252,12 @@ def set_table_widths(table: ET.Element, widths: list[int]) -> None:
 
     tbl_layout = ensure_child(tbl_pr, "tblLayout")
     tbl_layout.set(w_tag("type"), "fixed")
+    borders = ensure_child(tbl_pr, "tblBorders")
+    for edge in ("top", "bottom"):
+        border = ensure_child(borders, edge)
+        border.set(w_tag("val"), "single")
+        border.set(w_tag("sz"), "6")
+        border.set(w_tag("color"), "000000")
 
     old_grid = table.find("w:tblGrid", NS)
     if old_grid is not None:
@@ -270,12 +278,18 @@ def set_table_widths(table: ET.Element, widths: list[int]) -> None:
             tc_w = ensure_child(tc_pr, "tcW")
             tc_w.set(w_tag("type"), "dxa")
             tc_w.set(w_tag("w"), str(widths[index]))
+            margins = ensure_child(tc_pr, "tcMar")
+            for edge, value in (("top", "60"), ("bottom", "60"), ("left", "0"), ("right", "80" if index < len(widths) - 1 else "0")):
+                margin = ensure_child(margins, edge)
+                margin.set(w_tag("type"), "dxa")
+                margin.set(w_tag("w"), value)
 
 
 def set_footnote_font_size(root: ET.Element) -> None:
     for paragraph in root.findall(".//w:p", NS):
         set_paragraph_default_size(paragraph)
         ppr = ensure_first_child(paragraph, "pPr")
+        ensure_child(ppr, "keepLines")
         ensure_child(ppr, "ind").set(w_tag("firstLine"), "0")
         ensure_child(ppr, "jc").set(w_tag("val"), "left")
         spacing = ensure_child(ppr, "spacing")
@@ -619,7 +633,7 @@ def configure_with_python_docx(path: Path) -> None:
             paragraph.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
             paragraph.paragraph_format.space_before = Pt(6)
             paragraph.paragraph_format.space_after = Pt(3)
-        elif paragraph_text.startswith("Rysunek "):
+        elif re.match(r"^(?:Rysunek|Tabela) \d+\.", paragraph_text):
             paragraph.paragraph_format.keep_with_next = True
             paragraph.paragraph_format.keep_together = True
             paragraph.paragraph_format.left_indent = Cm(0)
@@ -627,7 +641,7 @@ def configure_with_python_docx(path: Path) -> None:
             paragraph.paragraph_format.first_line_indent = Cm(0)
             paragraph.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
             paragraph.paragraph_format.space_before = Pt(0)
-            paragraph.paragraph_format.space_after = Pt(0)
+            paragraph.paragraph_format.space_after = Pt(4 if paragraph_text.startswith("Tabela ") else 0)
             paragraph.paragraph_format.line_spacing = 1.0
         elif paragraph_text.startswith("Źródło:"):
             paragraph.paragraph_format.keep_together = True
@@ -638,6 +652,10 @@ def configure_with_python_docx(path: Path) -> None:
             paragraph.paragraph_format.space_before = Pt(0)
             paragraph.paragraph_format.space_after = Pt(6)
             paragraph.paragraph_format.line_spacing = 1.0
+            previous = paragraph._p.getprevious()
+            if previous is not None and previous.tag == qn("w:tbl"):
+                paragraph.paragraph_format.space_before = Pt(6)
+                paragraph.paragraph_format.line_spacing = 1.5
             for run in paragraph.runs:
                 run.font.name = UEP_FONT
                 run.font.size = Pt(10)
@@ -654,6 +672,9 @@ def configure_with_python_docx(path: Path) -> None:
             paragraph.paragraph_format.right_indent = Cm(0)
             paragraph.paragraph_format.first_line_indent = Cm(0.5)
             paragraph.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            paragraph.paragraph_format.line_spacing = 1.5
+            if re.match(r"^Tabela \d+ ", paragraph_text):
+                paragraph.paragraph_format.keep_with_next = True
         elif style_id in {"Heading1", "Heading2", "TOCHeading", "TOC1", "TOC2"}:
             paragraph.paragraph_format.left_indent = Cm(0)
             paragraph.paragraph_format.right_indent = Cm(0)

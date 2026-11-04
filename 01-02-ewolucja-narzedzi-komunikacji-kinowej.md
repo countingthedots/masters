@@ -1,6 +1,6 @@
 # 1.2. Ewolucja narzędzi komunikacji kinowej
 
-Omówiona w poprzednim podrozdziale komunikacja filmu i kina przyjmowała różne formy w zależności od dostępnych mediów. Opis rozpocznę od promocji w prasie, kinie i telewizji, a następnie przedstawię zmiany związane z upowszechnieniem internetu i rozwojem mediów społecznościowych. Nowe formy komunikacji uzupełniały wcześniejsze, dlatego ewolucja obejmowała także łączenie tradycyjnych i cyfrowych sposobów dotarcia. Opis tradycyjnych materiałów i wczesnego internetu opiera się przede wszystkim na praktykach amerykańskich i brytyjskich omówionych przez Kerrigan.[^ewolucja-zakres]
+Omówiona w poprzednim podrozdziale komunikacja filmu i kina przyjmowała różne formy w zależności od dostępnych mediów. Prasa, kino i telewizja były podstawowymi kanałami promocji, do których z czasem dołączyły internet i media społecznościowe. Nowe formy komunikacji uzupełniały wcześniejsze, dlatego ewolucja obejmowała także łączenie tradycyjnych i cyfrowych sposobów dotarcia. Opis tradycyjnych materiałów i wczesnego internetu opiera się przede wszystkim na praktykach amerykańskich i brytyjskich omówionych przez Kerrigan.[^ewolucja-zakres]
 
 Przed upowszechnieniem internetu widz poznawał zapowiedzi filmów dzięki plakatom w kinach, zwiastunom wyświetlanym przed seansem oraz wywiadom z twórcami publikowanym w prasie. Redakcjom dostarczano zestawy prasowe, czyli pakiety informacji, fotografii i nagrań o filmie, które ułatwiały przygotowanie publikacji. Kerrigan wskazuje, że część materiałów powstawała najpierw na potrzeby współpracy producenta z dystrybutorem, a później służyła promocji skierowanej do widzów.[^ewolucja-materialy]
 
@@ -38,43 +38,43 @@ W komunikacji konkretnego kina zmienia się przede wszystkim zakres przekazywany
 
 Publiczne wpisy i reakcje użytkowników dostarczały branży również danych o zainteresowaniu filmami. Bogaert i współautorzy przeanalizowali aktywność na Facebooku i Twitterze przed premierami 218 filmów z lat 2012-2015.[^ewolucja-bogaert] Dodanie danych z tych platform do informacji o filmach poprawiało prognozowanie wpływów kinowych, a uwzględnienie treści użytkowników przynosiło dalszą poprawę wyników modeli. Badanie pokazuje zastosowanie internetowych wypowiedzi i reakcji jako informacji o zainteresowaniu filmem. Wyniki modeli dotyczą jednak przychodów poszczególnych tytułów, a nie zakupu biletu przez osobę, która zobaczyła konkretny post. Przy ocenie kampanii liczba reakcji informuje o odpowiedzi na publikację, natomiast dane o sprzedaży pokazują, ile biletów kupiono.
 
-Rozwój komunikacji kinowej rozszerzył zatem udział widza w obiegu materiałów i opinii. Oficjalne strony pozwalały samodzielnie poznawać film, a profile społecznościowe ułatwiły rozmowę i przekazywanie treści innym osobom. Krótkie nagrania i systemy rekomendacji wprowadziły kolejne sposoby docierania do publiczności. Widz styka się przy tym z wypowiedziami dystrybutorów, kin, mediów i innych użytkowników. Sposób oceniania ich autentyczności i wiarygodności zostanie omówiony w kolejnym podrozdziale.
+Rozwój komunikacji kinowej rozszerzył zatem udział widza w obiegu materiałów i opinii. Oficjalne strony pozwalały samodzielnie poznawać film, a profile społecznościowe ułatwiły rozmowę i przekazywanie treści innym osobom. Krótkie nagrania i systemy rekomendacji wprowadziły kolejne sposoby docierania do publiczności. Widz styka się przy tym z wypowiedziami dystrybutorów, kin, mediów i innych użytkowników.
 
-[^ewolucja-zakres]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann, s. 123, 211-212. W odwołaniach do tego wydania podano numerację drukowaną.
+[^ewolucja-zakres]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 123, 211-212. Numeracja drukowana.
 
-[^ewolucja-zwiastun]: Kerrigan, F. (2010). *Film marketing*, s. 140-142.
+[^ewolucja-zwiastun]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 140-142. Numeracja drukowana.
 
-[^ewolucja-udostepnianie]: Kerrigan, F. (2010). *Film marketing*, s. 140, 200-201.
+[^ewolucja-udostepnianie]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 140, 200-201. Numeracja drukowana.
 
-[^ewolucja-ted]: Salvador Benítez, A. (2014). Cine y medios sociales: reinventando el marketing promocional. *Cuadernos de Documentación Multimedia*, 24, 104-116, zwłaszcza s. 110-111. <https://doi.org/10.5209/rev_CDMU.2013.v24.46285>. Tom oznaczono rokiem 2013, a artykuł opublikowano 18 lipca 2014 r.
+[^ewolucja-ted]: Salvador Benítez, A. (2014). Cine y medios sociales: reinventando el marketing promocional. *Cuadernos de Documentación Multimedia, 24*, 104-116. <https://doi.org/10.5209/rev_CDMU.2013.v24.46285>. Cytowane s. 110-111.
 
-[^ewolucja-materialy]: Kerrigan, F. (2010). *Film marketing*, s. 123-125, 127-129, 140-142.
+[^ewolucja-materialy]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 123-125, 127-129, 140-142. Numeracja drukowana.
 
-[^ewolucja-prasa]: Kerrigan, F. (2010). *Film marketing*, s. 127-129.
+[^ewolucja-prasa]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 127-129. Numeracja drukowana.
 
-[^ewolucja-reklama]: Kerrigan, F. (2010). *Film marketing*, s. 146-148.
+[^ewolucja-reklama]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 146-148. Numeracja drukowana.
 
-[^ewolucja-telewizja]: Kerrigan, F. (2010). *Film marketing*, s. 147. Autorka przywołuje badanie Elberse i Ananda (2007) obejmujące okres od 1 marca 2001 r. do 31 maja 2003 r.
+[^ewolucja-telewizja]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 147. Badanie Elberse i Ananda (2007) przywołano za Kerrigan, bez bezpośredniej lektury pierwotnej publikacji. Numeracja drukowana.
 
-[^ewolucja-epk]: Kerrigan, F. (2010). *Film marketing*, s. 127-128.
+[^ewolucja-epk]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 127-128. Numeracja drukowana.
 
-[^ewolucja-strony-rozwoj]: Walden, K. L. (2023). 404: file not found web archives and the challenges of preserving digital film promotion. *Historical Journal of Film, Radio and Television*, 43(1), 184-208. <https://doi.org/10.1080/01439685.2022.2096309>. Korzystano z pełnego tekstu opublikowanego online w 2022 r., s. 3 z odrębną paginacją.
+[^ewolucja-strony-rozwoj]: Walden, K. L. (2023). 404: file not found web archives and the challenges of preserving digital film promotion. *Historical Journal of Film, Radio and Television, 43*(1), 184-208. <https://doi.org/10.1080/01439685.2022.2096309>. Cytowana s. 3 wersji online z 2022 r. z odrębną paginacją.
 
-[^ewolucja-krytycy]: Kerrigan, F. (2010). *Film marketing*, s. 113-115.
+[^ewolucja-krytycy]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 113-115. Numeracja drukowana.
 
-[^ewolucja-opinie]: Rahaman, M. A., Hassan, H. M. K., Asheq, A. A. i Islam, K. M. A. (2022). The interplay between eWOM information and purchase intention on social media: Through the lens of IAM and TAM theory. *PLOS ONE*, 17(9), e0272926, s. 1-2. <https://doi.org/10.1371/journal.pone.0272926>.
+[^ewolucja-opinie]: Rahaman, M. A., Hassan, H. M. K., Asheq, A. A., & Islam, K. M. A. (2022). The interplay between eWOM information and purchase intention on social media: Through the lens of IAM and TAM theory. *PLOS ONE, 17*(9), Article e0272926. <https://doi.org/10.1371/journal.pone.0272926>. Cytowane s. 1-2.
 
-[^ewolucja-myspace]: Kerrigan, F. (2010). *Film marketing*, s. 201.
+[^ewolucja-myspace]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 201. Numeracja drukowana.
 
-[^ewolucja-cloverfield]: Kerrigan, F. (2010). *Film marketing*, s. 201-202.
+[^ewolucja-cloverfield]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 201-202. Numeracja drukowana.
 
-[^ewolucja-media]: Chaffey, D. i Ellis-Chadwick, F. (2022). *Digital marketing* (8th ed.). Pearson, s. 6-7.
+[^ewolucja-media]: Chaffey, D., & Ellis-Chadwick, F. (2022). *Digital marketing* (8th ed.). Pearson. Cytowane s. 6-7.
 
-[^ewolucja-bogaert]: Bogaert, M., Ballings, M., Van den Poel, D. i Oztekin, A. (2021). Box office sales and social media: A cross-platform comparison of predictive ability and mechanisms. *Decision Support Systems*, 147, artykuł 113517. <https://doi.org/10.1016/j.dss.2021.113517>. Korzystano z zaakceptowanego manuskryptu, części 4.2 i 5.1.
+[^ewolucja-bogaert]: Bogaert, M., Ballings, M., Van den Poel, D., & Oztekin, A. (2021). Box office sales and social media: A cross-platform comparison of predictive ability and mechanisms. *Decision Support Systems, 147*, Article 113517. <https://doi.org/10.1016/j.dss.2021.113517>. Cytowane części 4.2 i 5.1 zaakceptowanego manuskryptu.
 
-[^ewolucja-twitter-instagram]: Solomons, D., Kliphuis, T. i Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business, s. 378-381, 390-392.
+[^ewolucja-twitter-instagram]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 378-381, 390-392.
 
-[^ewolucja-platformy]: Solomons, D., Kliphuis, T. i Wadley, M. (2022). *eMarketing*, s. 379-380, 382-383.
+[^ewolucja-platformy]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 379-380, 382-383.
 
 
-[^ewolucja-letterboxd]: Mediavilla Aboulaoula, S. i Biltereyst, D. (2021). Corona cinephilia: A qualitative audience study on cinephile places, spaces and the impact of COVID-19 on urban cinephilia in the city of Ghent, Belgium. *Participations: Journal of Audience & Reception Studies*, 18(2), 473-497, zwłaszcza s. 480-481, 490-491. <https://www.participations.org/18-02-24-aboulaoula.pdf>.
+[^ewolucja-letterboxd]: Mediavilla Aboulaoula, S., & Biltereyst, D. (2021). Corona cinephilia: A qualitative audience study on cinephile places, spaces and the impact of COVID-19 on urban cinephilia in the city of Ghent, Belgium. *Participations: Journal of Audience & Reception Studies, 18*(2), 473-497. <https://www.participations.org/18-02-24-aboulaoula.pdf>. Cytowane s. 480-481, 490-491.
