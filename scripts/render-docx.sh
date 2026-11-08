@@ -676,6 +676,10 @@ def configure_with_python_docx(path: Path) -> None:
             if re.match(r"^Tabela \d+ ", paragraph_text):
                 paragraph.paragraph_format.keep_with_next = True
         elif style_id in {"Heading1", "Heading2", "TOCHeading", "TOC1", "TOC2"}:
+            if style_id in {"Heading1", "Heading2"}:
+                paragraph.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
+                paragraph.paragraph_format.space_before = Pt(12)
+                paragraph.paragraph_format.space_after = Pt(6)
             paragraph.paragraph_format.left_indent = Cm(0)
             paragraph.paragraph_format.right_indent = Cm(0)
             paragraph.paragraph_format.first_line_indent = Cm(0)

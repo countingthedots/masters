@@ -17,4 +17,4 @@ Końcowe pliki:
 
 ## Zmiany po zakończeniu recenzji
 
-Po powyższych recenzjach doprecyzowano H3 i zgodne z nią zdanie w 1.4 oraz unormowano opisy bibliograficzne w całym rozdziale 1. Powyższe SHA256 i oceny opisują wersję przyjętą w tamtej rundzie, nie są nową recenzją obecnej wersji. Kontrolę źródeł dokumentuje `audyt-zrodel-rozdzial-1.md`.
+Po powyższych recenzjach doprecyzowano H3 i zgodne z nią zdanie w 1.4 oraz unormowano opisy bibliograficzne w całym rozdziale 1. Powyższe SHA256 i oceny opisują wersję przyjętą w tamtej rundzie, nie są nową recenzją obecnej wersji.

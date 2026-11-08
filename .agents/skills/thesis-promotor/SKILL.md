@@ -1,6 +1,6 @@
 ---
 name: thesis-promotor
-description: Uruchamia konsylium Codex 6.1-Sol Medium i OpenCode DeepSeek V4.1 Flash oraz pętlę recenzji i poprawek wskazanej części magisterki w projekcie masters.
+description: Użyj gdy użytkownik prosi o uruchomienie pętli recenzji dla magisterki
 ---
 
 Czas na review!
