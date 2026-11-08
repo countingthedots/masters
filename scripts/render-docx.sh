@@ -12,11 +12,11 @@ fi
 
 PYTHON=${PYTHON:-python3}
 if ! "$PYTHON" -c 'import docx' >/dev/null 2>&1; then
-  BUNDLED_PYTHON="/Users/roman.judeszko/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
+  BUNDLED_PYTHON="$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
   if [ -x "$BUNDLED_PYTHON" ]; then
     PYTHON="$BUNDLED_PYTHON"
   else
-    echo "Error: python-docx is not available." >&2
+    echo "Error: python-docx is not available. Run: uv run scripts/render-thesis.py" >&2
     exit 1
   fi
 fi
@@ -765,7 +765,7 @@ def resolve_executable(
     environment_variable: str, command: str, candidates: list[str]
 ) -> str | None:
     configured = os.environ.get(environment_variable)
-    paths = [configured, shutil.which(command), *candidates]
+    paths = [configured, *candidates, shutil.which(command)]
     for value in paths:
         if value and Path(value).is_file() and os.access(value, os.X_OK):
             return value
@@ -777,6 +777,7 @@ def refresh_cached_toc_pages(path: Path) -> None:
         "SOFFICE",
         "soffice",
         [
+            str(Path.home() / ".cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/soffice"),
             "/Applications/LibreOffice.app/Contents/MacOS/soffice",
             str(Path.home() / "Applications/LibreOffice.app/Contents/MacOS/soffice"),
             "/opt/homebrew/bin/soffice",
