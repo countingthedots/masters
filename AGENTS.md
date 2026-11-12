@@ -54,6 +54,8 @@ W tym miejscu przygotowujemy:
 
 ## Zasady dotyczące źródeł
 
+- w pracy cytować wyłącznie źródła, których wykorzystywany pełny tekst jest po polsku lub angielsku. Angielski abstrakt lub streszczenie źródła w innym języku nie spełnia tego warunku
+
 - dla tabel przeglądu literatury preferować artykuły z ostatnich 10 lat
 - odróżniać artykuły przeglądowe od badań empirycznych
 - opisywać wpisy na podstawie wiarygodnych metadanych, abstraktów i treści źródłowych
