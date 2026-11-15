@@ -103,7 +103,7 @@ Badanie Muthulingam i Amirtharaja z 2026 r. pozostawię jako uzupełnienie, jeż
 
 Czy definicje autentyczności, wiarygodności i zaangażowania się nie mieszają. Sprawdzimy też, czy język o wpływie nie sugeruje przyczynowości silniejszej niż zastosowana metoda badawcza oraz czy wnioski z innych rynków mają jasno wskazane ograniczenia.
 
-## 1.4. Przegląd narzędzi promocji produkcji kinowych w mediach społecznościowych
+## 1.4. Formy komunikacji o filmach kinowych w mediach społecznościowych i kryteria ich oceny
 
 ### Cel i zakres
 
