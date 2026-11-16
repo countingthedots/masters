@@ -2,8 +2,6 @@
 
 Autentyczność i wiarygodność to tylko część kryteriów, według których widz może oceniać publikację o filmie. Zwiastun może zaciekawić historią, krótkie nagranie rozbawić, a recenzja dostarczyć argumentów za wyborem seansu. Aby porównać te materiały, trzeba najpierw ustalić, jakie formy przybiera komunikacja o filmach w mediach społecznościowych. Tworzą ją zarówno podmioty promujące film i jego pokazy, jak i widzowie, których opinie mogą zachęcać do seansu lub go odradzać.
 
-Punktem wyjścia jest rozróżnienie narzędzi, mediów i treści przyjęte przez Filla i Turnbull. Reklama i public relations należą w ich ujęciu do narzędzi komunikacji, a media służą przekazywaniu treści odbiorcom.[^formy-podzial] W tej pracy forma publikacji oznacza rodzaj materiału, który widz może obejrzeć lub przeczytać, na przykład zwiastun, wywiad albo recenzję.
-
 Publikacja może mieć postać tekstu, grafiki lub zdjęcia, nagrania wideo albo ich połączenia. Recenzja wideo i zwiastun wykorzystują nagranie, ale dostarczają innych wskazówek. Z kolei zaproszenie na pokaz może łączyć plakat, godziny seansów i fragment recenzji.
 
 Publikacja nie musi jednak służyć tylko informowaniu o filmie. Solomons, Kliphuis i Wadley opisują materiały wideo służące informowaniu, rozrywce i wywoływaniu emocji, a także reklamy wideo.[^formy-wideo] W odniesieniu do promocji filmu oznacza to, że materiał może zainteresować widza nastrojem sceny lub humorem, nawet jeśli niewiele wyjaśnia o fabule. Warto więc oceniać zarówno to, czego odbiorca dowiedział się z publikacji, jak i jego wrażenia podczas oglądania.
@@ -104,7 +102,6 @@ Zamiar seansu kinowego & Deklarowana chęć obejrzenia filmu w kinie & Z uwzglę
 
 Ocenę form komunikacji należy odnosić do ich zadań, treści i autorstwa. Wspólnym punktem odniesienia jest potrzeba widza, na przykład wybór filmu lub zaplanowanie wizyty, a dobór kryteriów zależy od zawartości materiału.
 
-[^formy-podzial]: Fill, C., & Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson. Cytowane s. 12-13.
 
 [^formy-wideo]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 328-329.
 
