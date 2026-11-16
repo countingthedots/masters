@@ -4,13 +4,13 @@ Autentyczność i wiarygodność to tylko część kryteriów, według których 
 
 Publikacja może mieć postać tekstu, grafiki lub zdjęcia, nagrania wideo albo ich połączenia. Recenzja wideo i zwiastun wykorzystują nagranie, ale dostarczają innych wskazówek. Z kolei zaproszenie na pokaz może łączyć plakat, godziny seansów i fragment recenzji.
 
-Publikacja nie musi jednak służyć tylko informowaniu o filmie. Solomons, Kliphuis i Wadley opisują materiały wideo służące informowaniu, rozrywce i wywoływaniu emocji, a także reklamy wideo.[^formy-wideo] W odniesieniu do promocji filmu oznacza to, że materiał może zainteresować widza nastrojem sceny lub humorem, nawet jeśli niewiele wyjaśnia o fabule. Warto więc oceniać zarówno to, czego odbiorca dowiedział się z publikacji, jak i jego wrażenia podczas oglądania.
+Publikacja nie musi jednak służyć tylko informowaniu o filmie. Ducoffe wskazuje, że reklama ma dla odbiorcy wartość wtedy, gdy dostarcza informacji o ofercie, ale także wtedy, gdy jej odbiór sprawia przyjemność. Wartość tę obniża natomiast irytacja wywołana sposobem, w jaki nadawca przedstawia przekaz.[^formy-wartosc] W odniesieniu do promocji filmu oznacza to, że materiał może zainteresować widza nastrojem sceny lub humorem, nawet jeśli niewiele wyjaśnia o fabule. Warto więc oceniać zarówno to, czego odbiorca dowiedział się z publikacji, jak i jego wrażenia podczas oglądania.
 
-Zwiastuny i krótsze teasery pozwalają wstępnie poznać charakter filmu. Towarzyszą im plakaty i fotografie. Dabrovolskas wskazuje, że plakat przekazuje informacje przez obraz, natomiast zwiastun może ukazać postacie i zarys opowieści za pomocą wybranych scen. Zwraca też uwagę na napięcie między ujawnieniem informacji potrzebnych do zainteresowania filmem a zachowaniem części historii na seans.[^formy-zapowiedzi]
+Zwiastuny i krótsze teasery pozwalają wstępnie poznać charakter filmu. Karray i Debernitz porównują zwiastun do próbki produktu. Na podstawie wybranych scen widz wyobraża sobie treść filmu i ocenia, czy seans zapewni mu oczekiwaną rozrywkę.[^formy-probka] Zapowiedziom towarzyszą plakaty i fotografie. Dabrovolskas wskazuje, że plakat przekazuje informacje przez obraz, natomiast zwiastun może ukazać postacie i zarys opowieści za pomocą wybranych scen. Zwraca też uwagę na napięcie między ujawnieniem informacji potrzebnych do zainteresowania filmem a zachowaniem części historii na seans.[^formy-zapowiedzi] Karray i Debernitz opisują pominięcie części fabuły, na przykład tego, czy bohater jest dobry, czy zły, jako sposób wzbudzenia ciekawości widza.[^formy-luki]
 
-Wywiady z obsadą i twórcami oraz nagrania i fotografie z planu przybliżają natomiast powstawanie filmu. W mediach społecznościowych widz może też zadać pytanie bezpośrednio twórcom. Solomons, Kliphuis i Wadley opisują transmisje na żywo, podczas których odbiorcy komentują nagranie w czasie rzeczywistym.[^formy-transmisja]
+Wywiady z obsadą i twórcami oraz nagrania i fotografie z planu przybliżają natomiast powstawanie filmu. Pełnią więc podobną funkcję jak omówione w podrozdziale 1.2 wywiady prasowe, ale trafiają do widza bez pośrednictwa redakcji. W mediach społecznościowych widz może też zadać pytanie bezpośrednio twórcom. Solomons, Kliphuis i Wadley opisują transmisje na żywo, podczas których odbiorcy komentują nagranie w czasie rzeczywistym.[^formy-transmisja]
 
-Recenzje i relacje po seansie przedstawiają z kolei ocenę filmu przez osobę, która go obejrzała. Mogą przyjmować postać recenzji tekstowej, krótkiej relacji wideo lub komentarza uzasadniającego polecenie albo odradzenie seansu. Kerrigan i Yalkin omawiają zarówno cechy takich ocen, jak i korzystanie z nich przy wyborze filmu.[^formy-opinie] Recenzja z uzasadnieniem pozwala porównać to, co obiecywała zapowiedź, z wrażeniami recenzenta po seansie. Krótka relacja może natomiast przede wszystkim pokazywać zachwyt lub rozczarowanie autora. W obu przypadkach widz poznaje cudzą ocenę filmu, lecz otrzymuje różne podstawy do własnego wyboru.
+Recenzje i relacje po seansie przedstawiają z kolei ocenę filmu przez osobę, która go obejrzała. Mogą przyjmować postać recenzji tekstowej, krótkiej relacji wideo lub komentarza uzasadniającego polecenie albo odradzenie seansu. Kerrigan wskazuje, że widzowie mogą sięgać po recenzje, aby ograniczyć ryzyko nietrafionego wyboru albo zrozumieć, dlaczego o filmie dużo się mówi. Ocenę recenzenta odnoszą przy tym do tego, co wiedzą o jego guście.[^formy-opinie] Recenzja z uzasadnieniem pozwala porównać to, co obiecywała zapowiedź, z wrażeniami recenzenta po seansie. Krótka relacja może natomiast przede wszystkim pokazywać zachwyt lub rozczarowanie autora. W obu przypadkach widz poznaje cudzą ocenę filmu, lecz otrzymuje różne podstawy do własnego wyboru.
 
 W mediach społecznościowych widz może także wykorzystać dostępny materiał do przygotowania własnej publikacji. Solomons, Kliphuis i Wadley opisują udostępnianie nagrań między użytkownikami oraz tworzenie własnych przeróbek popularnych materiałów.[^formy-obieg] Można to zilustrować przykładem widza, który wybiera sceny z udostępnionej zapowiedzi, dodaje muzykę i publikuje własny montaż poświęcony bohaterowi. Z kolei kadr opatrzony żartobliwym podpisem może stać się memem, czyli materiałem powielanym i przekształcanym przez użytkowników. Dobór scen, muzyki lub podpisu pozwala użytkownikowi wyrazić własny stosunek do filmu i jego bohaterów, a także podzielić się żartem.
 
@@ -41,7 +41,7 @@ Post repertuarowy, zaproszenie na pokaz & Tekst, obraz lub nagranie & Poinformow
 \end{tabularx}
 \vspace{4pt}
 
-\figuresource{Źródło: opracowanie własne na podstawie Filla i Turnbull (2023), Dabrovolskasa (2024), Kerrigan (2010), Kerrigan i Yalkin (2009) oraz Solomons, Kliphuis i Wadley (2022). Zestawienie stanowi własne uporządkowanie opisanych materiałów i funkcji treści}
+\figuresource{Źródło: opracowanie własne na podstawie Filla i Turnbull (2023), Dabrovolskasa (2024), Karray i Debernitz (2017), Kerrigan (2010) oraz Solomons, Kliphuis i Wadley (2022). Zestawienie stanowi własne uporządkowanie opisanych materiałów i funkcji treści}
 
 \figureend
 
@@ -49,7 +49,7 @@ Post repertuarowy, zaproszenie na pokaz & Tekst, obraz lub nagranie & Poinformow
 
 Dobór kryteriów oceny zależy od tego, czemu służy publikacja i czego szuka w niej widz. Fill i Turnbull opisują zwracanie uwagi, zainteresowanie przekazem i umożliwianie interakcji jako zadania komunikacji.[^formy-uwaga] Przy krótkim zetknięciu z publikacją widz może ocenić, czy zwróciła jego uwagę, a po zapoznaniu się z nią także to, czy utrzymała uwagę podczas oglądania lub czytania. Autorzy wiążą też informowanie z poznaniem oferty i ograniczaniem niepewności przed zakupem.[^formy-informacja] W komunikacji kinowej przydatność informacji ma dwa aspekty. Jeden dotyczy wyboru filmu na podstawie jego cech, drugi zaplanowania wizyty dzięki wiadomościom o terminie, miejscu i warunkach seansu. Recenzja pomaga zatem wybrać film, a repertuar zaplanować wizytę.
 
-Przy ocenie materiału można rozdzielić przyjemność odbioru, czyli to, czy widzowi podoba się oglądanie lub czytanie materiału, oraz charakter reakcji emocjonalnej, na przykład rozbawienie, napięcie, irytację lub nudę. Napięcie może być częścią przyjemnego odbioru zapowiedzi horroru, a irytacja powodem przerwania oglądania.
+Przy ocenie materiału można rozdzielić przyjemność odbioru, czyli to, czy widzowi podoba się oglądanie lub czytanie materiału, oraz charakter reakcji emocjonalnej, na przykład rozbawienie, napięcie, irytację lub nudę. Nawiązują one do opisanych przez Ducoffe'a przyjemności odbioru i irytacji, przy czym irytacja jest tu jednym z możliwych rodzajów reakcji. Napięcie może być częścią przyjemnego odbioru zapowiedzi horroru, a irytacja powodem przerwania oglądania.
 
 Ocena samej publikacji nie przesądza jednak o atrakcyjności filmu dla odbiorcy. Przydatność recenzji i zawartą w niej ocenę filmu osobno analizują na przykład Lee i Choeh.[^formy-badanie-przydatnosci] Postrzegana atrakcyjność filmu oznacza tutaj dopasowanie jego cech do upodobań odbiorcy. Pytając o chęć pójścia do kina, trzeba uwzględnić, czy widz interesował się tytułem wcześniej, bo mógł zaplanować seans przed kontaktem z publikacją.
 
@@ -94,7 +94,7 @@ Zamiar seansu kinowego & Deklarowana chęć obejrzenia filmu w kinie & Z uwzglę
 \end{tabularx}
 \vspace{4pt}
 
-\figuresource{Źródło: opracowanie własne na podstawie Filla i Turnbull (2023), Solomons, Kliphuis i Wadley (2022), Lee i Choeha (2020) oraz ustaleń podrozdziałów 1.1 i 1.3}
+\figuresource{Źródło: opracowanie własne na podstawie Ducoffe'a (1996), Filla i Turnbull (2023), Solomons, Kliphuis i Wadley (2022), Lee i Choeha (2020) oraz ustaleń podrozdziałów 1.1 i 1.3}
 
 \figureend
 
@@ -103,12 +103,16 @@ Zamiar seansu kinowego & Deklarowana chęć obejrzenia filmu w kinie & Z uwzglę
 Ocenę form komunikacji należy odnosić do ich zadań, treści i autorstwa. Wspólnym punktem odniesienia jest potrzeba widza, na przykład wybór filmu lub zaplanowanie wizyty, a dobór kryteriów zależy od zawartości materiału.
 
 
-[^formy-wideo]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 328-329.
+[^formy-wartosc]: Ducoffe, R. H. (1996). Advertising value and advertising on the Web. *Journal of Advertising Research, 36*(5), 21-35. <https://doi.org/10.1080/00218499.1996.12466626>. Cytowane s. 22-23.
+
+[^formy-probka]: Karray, S., & Debernitz, L. (2017). The effectiveness of movie trailer advertising. *International Journal of Advertising, 36*(2), 368-392. <https://doi.org/10.1080/02650487.2015.1090521>. Cytowane s. 7 wersji autorskiej przyjętej do druku.
+
+[^formy-luki]: Karray, S., & Debernitz, L. (2017). The effectiveness of movie trailer advertising. *International Journal of Advertising, 36*(2), 368-392. <https://doi.org/10.1080/02650487.2015.1090521>. Cytowane s. 10 wersji autorskiej przyjętej do druku.
 
 [^formy-zapowiedzi]: Dabrovolskas, A. (2024). Film marketing and brand continuity: The case of “Redirected/Už Lietuvą!”. *Information & Media, 99*, 23-40. <https://doi.org/10.15388/Im.2024.99.2>. Cytowane s. 27-28.
 
 
-[^formy-opinie]: Kerrigan, F., & Yalkin, C. (2009). *Revisiting the role of critical reviews in film marketing* [Referat konferencyjny, wersja autorska]. COUNTER workshop Mashing-up Culture, Uppsala University, Szwecja. <https://ualresearchonline.arts.ac.uk/id/eprint/16148/>. Cytowane s. 4-9 wersji autorskiej w repozytorium UAL Research Online.
+[^formy-opinie]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 114. Numeracja drukowana.
 
 [^formy-udzial]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 365-366, 433-434.
 
