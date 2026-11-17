@@ -71,9 +71,7 @@ Dla celu tej pracy istotne jest również, czy ocenom publikacji towarzyszą zai
 
 Oprócz zamiaru seansu można rozpatrywać chęć skomentowania lub udostępnienia publikacji oraz udziału w proponowanym zadaniu. Każde z tych działań może mieć inne uzasadnienie: widz może udostępnić materiał ze względu na żart, a do konkursu zgłosić się dla nagrody.
 
-Powiązanie zadań materiału z kryteriami odbioru można zilustrować porównaniem dwóch publikacji o tym samym thrillerze: krótkiego zwiastuna na profilu dystrybutora i niezależnej recenzji wideo opublikowanej przez widza. Zapowiedź pokazuje sceny budujące napięcie, a recenzja uzasadnia krytyczną ocenę tempa opowieści. Porównanie obejmuje przyciągnięcie i utrzymanie uwagi, przyjemność odbioru oraz przydatność informacji. Przydatność oznacza tu pomoc w ustaleniu, czy charakter i tempo filmu odpowiadają oczekiwaniom widza.
-
-W takim porównaniu zwiastun może dostarczyć widzowi przyjemniejszych wrażeń, a recenzja bardziej przydatnych informacji. Jeśli widz szuka dynamicznej akcji, opis powolnego tempa może pomóc mu odrzucić film, który nie odpowiada jego upodobaniom. Wysoka ocena przydatności recenzji może zatem towarzyszyć niskiej ocenie atrakcyjności filmu. Porównanie pokazuje wtedy, w czym każdy z tych materiałów pomaga odbiorcy, zamiast sprowadzać ich ocenę do jednego wyniku.
+Zwiastun thrillera może podobać się widzowi dzięki dynamicznemu montażowi, a recenzja informować, że większość filmu ma spokojne tempo. Dla osoby szukającej szybkiej akcji to właśnie recenzja może być bardziej przydatna: pozwala zrezygnować z filmu, który nie odpowiada jej oczekiwaniom.
 
 Tabela 2 zbiera zaproponowane kryteria oceny materiału oraz deklaracje widza dotyczące filmu i dalszych działań. Na ich podstawie można dobierać wskaźniki odpowiadające celowi konkretnego badania i treści ocenianych publikacji.
 
@@ -116,7 +114,7 @@ Zamiar seansu kinowego & Deklarowana chęć obejrzenia filmu w kinie & Z uwzglę
 
 \vspace{6pt}
 
-Ocenę form komunikacji należy odnosić do ich zadań, treści i autorstwa. Wspólnym punktem odniesienia jest potrzeba widza, na przykład wybór filmu lub zaplanowanie wizyty, a dobór kryteriów zależy od zawartości materiału.
+Zwiastun, recenzja czy post kina mogą być wartościowe dla widza z różnych powodów: dostarczać przyjemności, pomagać wybrać film lub ułatwiać zaplanowanie seansu. Zaproponowane kryteria pozwalają opisać te różnice i zbadać, jak ocena publikacji wiąże się z zamiarem wizyty w kinie.
 
 
 [^formy-wartosc]: Ducoffe, R. H. (1996). Advertising value and advertising on the Web. *Journal of Advertising Research, 36*(5), 21-35. <https://doi.org/10.1080/00218499.1996.12466626>. Cytowane s. 22-23.
