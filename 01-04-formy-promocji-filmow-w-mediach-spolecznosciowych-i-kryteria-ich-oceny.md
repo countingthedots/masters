@@ -12,7 +12,7 @@ Wywiady z obsadą i twórcami oraz nagrania i fotografie z planu przybliżają n
 
 Recenzje i relacje po seansie przedstawiają z kolei ocenę filmu przez osobę, która go obejrzała. Mogą przyjmować postać recenzji tekstowej, krótkiej relacji wideo lub komentarza uzasadniającego polecenie albo odradzenie seansu. Kerrigan wskazuje, że widzowie mogą sięgać po recenzje, aby ograniczyć ryzyko nietrafionego wyboru albo zrozumieć, dlaczego o filmie dużo się mówi. Ocenę recenzenta odnoszą przy tym do tego, co wiedzą o jego guście.[^formy-opinie] Recenzja z uzasadnieniem pozwala porównać to, co obiecywała zapowiedź, z wrażeniami recenzenta po seansie. Krótka relacja może natomiast przede wszystkim pokazywać zachwyt lub rozczarowanie autora. W obu przypadkach widz poznaje cudzą ocenę filmu, lecz otrzymuje różne podstawy do własnego wyboru.
 
-W mediach społecznościowych widz może także wykorzystać dostępny materiał do przygotowania własnej publikacji. Solomons, Kliphuis i Wadley opisują udostępnianie nagrań między użytkownikami oraz tworzenie własnych przeróbek popularnych materiałów.[^formy-obieg] Można to zilustrować przykładem widza, który wybiera sceny z udostępnionej zapowiedzi, dodaje muzykę i publikuje własny montaż poświęcony bohaterowi. Z kolei kadr opatrzony żartobliwym podpisem może stać się memem, czyli materiałem powielanym i przekształcanym przez użytkowników. Dobór scen, muzyki lub podpisu pozwala użytkownikowi wyrazić własny stosunek do filmu i jego bohaterów, a także podzielić się żartem.
+W mediach społecznościowych widz może także wykorzystać dostępny materiał do przygotowania własnej publikacji. Schivinski, Christodoulides i Dabrowski wyróżniają trzy poziomy zaangażowania użytkowników w treści dotyczące marki: oglądanie materiałów, udział w nich przez komentarze, polubienia i udostępnienia oraz tworzenie i publikowanie własnych treści. Ostatni poziom uznają za najsilniejszy, bo materiał przygotowany przez użytkownika może skłonić kolejne osoby do oglądania i komentowania.[^formy-obieg] Można to zilustrować przykładem widza, który wybiera sceny z udostępnionej zapowiedzi, dodaje muzykę i publikuje własny montaż poświęcony bohaterowi. Z kolei kadr opatrzony żartobliwym podpisem może dać początek memowi. Shifman opisuje mem internetowy jako grupę materiałów o wspólnej treści, formie lub postawie, które powstają ze świadomością siebie nawzajem i są rozpowszechniane, naśladowane oraz przekształcane przez wielu użytkowników.[^formy-mem] Dobór scen, muzyki lub podpisu pozwala użytkownikowi wyrazić własny stosunek do filmu i jego bohaterów, a także podzielić się żartem.
 
 Część publikacji informuje, gdzie i kiedy można obejrzeć film. Post repertuarowy może podawać datę i godzinę seansu, cenę biletu oraz odnośnik do zakupu, a zaproszenie na pokaz specjalny wyjaśniać warunki udziału. Widz zainteresowany filmem musi wtedy ustalić, czy odpowiadają mu termin, miejsce i koszt wizyty.
 
@@ -41,7 +41,7 @@ Post repertuarowy, zaproszenie na pokaz & Tekst, obraz lub nagranie & Poinformow
 \end{tabularx}
 \vspace{4pt}
 
-\figuresource{Źródło: opracowanie własne na podstawie Filla i Turnbull (2023), Dabrovolskasa (2024), Karray i Debernitz (2017), Kerrigan (2010) oraz Solomons, Kliphuis i Wadley (2022). Zestawienie stanowi własne uporządkowanie opisanych materiałów i funkcji treści}
+\figuresource{Źródło: opracowanie własne na podstawie Filla i Turnbull (2023), Dabrovolskasa (2024), Karray i Debernitz (2017), Kerrigan (2010), Schivinskiego, Christodoulidesa i Dabrowskiego (2016) oraz Shifman (2014). Zestawienie stanowi własne uporządkowanie opisanych materiałów i funkcji treści}
 
 \figureend
 
@@ -53,7 +53,7 @@ Przy ocenie materiału można rozdzielić przyjemność odbioru, czyli to, czy w
 
 Ocena samej publikacji nie przesądza jednak o atrakcyjności filmu dla odbiorcy. Przydatność recenzji i zawartą w niej ocenę filmu osobno analizują na przykład Lee i Choeh.[^formy-badanie-przydatnosci] Postrzegana atrakcyjność filmu oznacza tutaj dopasowanie jego cech do upodobań odbiorcy. Pytając o chęć pójścia do kina, trzeba uwzględnić, czy widz interesował się tytułem wcześniej, bo mógł zaplanować seans przed kontaktem z publikacją.
 
-Po kontakcie z publikacją można również zapytać widza o chęć jej skomentowania, udostępnienia lub udziału w proponowanym zadaniu.
+Po kontakcie z publikacją można również zapytać widza o chęć jej skomentowania, udostępnienia lub udziału w proponowanym zadaniu. Pytania te odpowiadają opisanym wcześniej poziomom zaangażowania. Ich znaczenie dla wyników filmu sprawdzili Oh, Roumani, Nwankpa i Hu. W badaniu filmów amerykańskich aktywność użytkowników na Facebooku i YouTube, w tym wyświetlenia i komentarze pod zwiastunami, była dodatnio powiązana z wpływami z pierwszego weekendu wyświetlania. Na Twitterze takiej zależności nie zaobserwowano.[^formy-zaangazowanie]
 
 Powiązanie zadań materiału z kryteriami odbioru można zilustrować porównaniem dwóch publikacji o tym samym thrillerze: krótkiego zwiastuna na profilu dystrybutora i niezależnej recenzji wideo opublikowanej przez widza. Zapowiedź pokazuje sceny budujące napięcie, a recenzja uzasadnia krytyczną ocenę tempa opowieści. W obu materiałach można osobno ocenić przyciągnięcie i utrzymanie uwagi oraz przyjemność odbioru. Przydatność obu publikacji można ocenić, pytając, czy pomagają widzowi ustalić, czy charakter i tempo filmu odpowiadają jego oczekiwaniom. Zwiastun dostarcza wskazówek przez wybrane obrazy i dźwięk, a recenzja przez opis i uzasadnienie oceny.
 
@@ -94,7 +94,7 @@ Zamiar seansu kinowego & Deklarowana chęć obejrzenia filmu w kinie & Z uwzglę
 \end{tabularx}
 \vspace{4pt}
 
-\figuresource{Źródło: opracowanie własne na podstawie Ducoffe'a (1996), Filla i Turnbull (2023), Solomons, Kliphuis i Wadley (2022), Lee i Choeha (2020) oraz ustaleń podrozdziałów 1.1 i 1.3}
+\figuresource{Źródło: opracowanie własne na podstawie Ducoffe'a (1996), Filla i Turnbull (2023), Solomons, Kliphuis i Wadley (2022), Lee i Choeha (2020), Schivinskiego, Christodoulidesa i Dabrowskiego (2016), Oh, Roumaniego, Nwankpy i Hu (2017) oraz ustaleń podrozdziałów 1.1 i 1.3}
 
 \figureend
 
@@ -116,7 +116,9 @@ Ocenę form komunikacji należy odnosić do ich zadań, treści i autorstwa. Wsp
 
 [^formy-udzial]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 365-366, 433-434.
 
-[^formy-obieg]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 329-330.
+[^formy-obieg]: Schivinski, B., Christodoulides, G., & Dabrowski, D. (2016). Measuring consumers' engagement with brand-related social-media content: Development and validation of a scale that identifies levels of social-media engagement with brands. *Journal of Advertising Research, 56*(1), 64-80. <https://doi.org/10.2501/JAR-2016-004>. Cytowane s. 4-5 wersji autorskiej przyjętej do druku.
+
+[^formy-mem]: Shifman, L. (2014). *Memes in digital culture*. MIT Press. Cytowana s. 41.
 
 [^formy-transmisja]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 364.
 
@@ -126,4 +128,6 @@ Ocenę form komunikacji należy odnosić do ich zadań, treści i autorstwa. Wsp
 
 
 [^formy-badanie-przydatnosci]: Lee, S., & Choeh, J. Y. (2020). The impact of online review helpfulness and word of mouth communication on box office performance predictions. *Humanities and Social Sciences Communications, 7*, Article 84. <https://doi.org/10.1057/s41599-020-00578-9>. Cytowana s. 4.
+
+[^formy-zaangazowanie]: Oh, C., Roumani, Y., Nwankpa, J. K., & Hu, H.-F. (2017). Beyond likes and tweets: Consumer engagement behavior and movie box office in social media. *Information & Management, 54*(1), 25-37. <https://doi.org/10.1016/j.im.2016.03.004>. Cytowane s. 2, 28-29 wersji autorskiej przyjętej do druku.
 
