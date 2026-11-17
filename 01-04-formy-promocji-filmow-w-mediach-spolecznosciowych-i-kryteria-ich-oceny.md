@@ -59,17 +59,19 @@ Wideo z kina, fotorelacja z wydarzenia & Nagranie lub fotografie z opisem & Prze
 
 \vspace{6pt}
 
+Dla dystrybutorów i kin ważne jest, czy zainteresowanie materiałami o filmie wiąże się ze sprzedażą biletów. Związek aktywności użytkowników z wynikami filmu badali Oh, Roumani, Nwankpa i Hu. W badaniu filmów amerykańskich aktywność na Facebooku i YouTube, w tym wyświetlenia i komentarze pod zwiastunami, była dodatnio powiązana z wpływami z pierwszego weekendu wyświetlania. [^formy-zaangazowanie]
+
 Przyjrzymy się teraz kryteriom oceny opisanych materiałów, a następnie deklaracjom widza dotyczącym filmu i dalszych działań. W ocenie materiałów przyjęto dwa obszary: odbiór podczas kontaktu z publikacją oraz ocenę jej treści i autora. Jest to autorskie uporządkowanie omówionej literatury.
 
 Pierwszy obszar obejmuje uwagę i wrażenia podczas oglądania lub czytania. Fill i Turnbull omawiają przyciąganie uwagi, zainteresowanie przekazem i interakcję w kontekście angażowania odbiorców.[^formy-uwaga] Na tej podstawie można zapytać, czy materiał przyciągnął i utrzymał uwagę widza. Plakat może zwrócić uwagę obrazem, a zwiastun wybraną sceną. W przypadku zwiastuna lub recenzji wideo osobnej ocenie podlega to, czy materiał skupiał uwagę także podczas dalszego oglądania. Do wrażeń podczas kontaktu z materiałem należą również przyjemność odbioru i irytacja, uwzględnione w modelu wartości reklamy Ducoffe'a. W przypadku memu istotne może być rozbawienie, a zapowiedzi thrillera napięcie. Rodzaj emocji i przyjemność odbioru stanowią jednak osobne kryteria: widz może lubić napięcie podczas oglądania zapowiedzi, a żart w memie uznać za irytujący.
 
 Drugi obszar dotyczy tego, co widz uznaje w publikacji za przydatne i godne zaufania. Fill i Turnbull traktują informowanie jako jedno z podstawowych zadań komunikacji, wiążąc je z poznaniem oferty i ograniczaniem niepewności przed zakupem.[^formy-informacja] W tej pracy przydatność informacji oznacza pomoc w konkretnej decyzji widza. Zwiastun i recenzja mogą pomóc w wyborze filmu, ale dostarczają innych podstaw do tej decyzji: wybranych scen albo uzasadnionej oceny osoby, która obejrzała całość. Ich przydatność można porównać pod względem tego, czy pomagają rozpoznać cechy filmu istotne dla odbiorcy. Post repertuarowy odpowiada na pytania o termin, miejsce i cenę seansu. W jego przypadku przydatność polega na pomocy w zaplanowaniu wizyty. Ocenę treści i autora uzupełniają kryteria autentyczności i wiarygodności omówione w podrozdziale 1.3, stosowane wówczas, gdy materiał daje podstawy do takiej oceny.
 
-Osobnym zagadnieniem są atrakcyjność filmu i deklarowane dalsze działania widza. Ocena samej publikacji nie przesądza o atrakcyjności filmu dla odbiorcy. Przydatność recenzji i zawartą w niej ocenę filmu osobno analizują na przykład Lee i Choeh.[^formy-badanie-przydatnosci] Postrzegana atrakcyjność filmu oznacza tutaj dopasowanie jego cech do upodobań odbiorcy. Z kolei zamiar seansu kinowego dotyczy chęci obejrzenia go w kinie. Przy jego ocenie znaczenie mają także wcześniejsze zainteresowanie filmem, plany widza i warunki wizyty.
+Dla celu tej pracy istotne jest również, czy ocenom publikacji towarzyszą zainteresowanie filmem i zamiar seansu kinowego. Widz może uznać materiał za przydatny lub interesujący, a mimo to nie chcieć obejrzeć filmu w kinie.
 
-Schivinski, Christodoulides i Dabrowski rozróżniają oglądanie treści, reagowanie na nie przez komentarze, polubienia i udostępnienia oraz tworzenie własnych publikacji.[^formy-obieg] Po kontakcie z publikacją można również zapytać widza o chęć jej skomentowania, udostępnienia lub udziału w proponowanym zadaniu. Związek obserwowanej aktywności użytkowników z wynikami filmu badali Oh, Roumani, Nwankpa i Hu. W badaniu filmów amerykańskich aktywność użytkowników na Facebooku i YouTube, w tym wyświetlenia i komentarze pod zwiastunami, była dodatnio powiązana z wpływami z pierwszego weekendu wyświetlania. Na Twitterze takiej zależności nie zaobserwowano.[^formy-zaangazowanie]
+Oprócz zamiaru seansu można rozpatrywać chęć skomentowania lub udostępnienia publikacji oraz udziału w proponowanym zadaniu. Każde z tych działań może mieć inne uzasadnienie: widz może udostępnić materiał ze względu na żart, a do konkursu zgłosić się dla nagrody.
 
-Powiązanie zadań materiału z kryteriami odbioru można zilustrować porównaniem dwóch publikacji o tym samym thrillerze: krótkiego zwiastuna na profilu dystrybutora i niezależnej recenzji wideo opublikowanej przez widza. Zapowiedź pokazuje sceny budujące napięcie, a recenzja uzasadnia krytyczną ocenę tempa opowieści. Oba materiały można porównać pod względem przyciągnięcia i utrzymania uwagi oraz przyjemności odbioru. Przydatność obu publikacji można ocenić, pytając, czy pomagają widzowi ustalić, czy charakter i tempo filmu odpowiadają jego oczekiwaniom. Osobistą wypowiedź recenzenta można dodatkowo rozpatrzyć pod względem autentyczności i wiarygodności, zgodnie z podrozdziałem 1.3.
+Powiązanie zadań materiału z kryteriami odbioru można zilustrować porównaniem dwóch publikacji o tym samym thrillerze: krótkiego zwiastuna na profilu dystrybutora i niezależnej recenzji wideo opublikowanej przez widza. Zapowiedź pokazuje sceny budujące napięcie, a recenzja uzasadnia krytyczną ocenę tempa opowieści. Porównanie obejmuje przyciągnięcie i utrzymanie uwagi, przyjemność odbioru oraz przydatność informacji. Przydatność oznacza tu pomoc w ustaleniu, czy charakter i tempo filmu odpowiadają oczekiwaniom widza.
 
 W takim porównaniu zwiastun może dostarczyć widzowi przyjemniejszych wrażeń, a recenzja bardziej przydatnych informacji. Jeśli widz szuka dynamicznej akcji, opis powolnego tempa może pomóc mu odrzucić film, który nie odpowiada jego upodobaniom. Wysoka ocena przydatności recenzji może zatem towarzyszyć niskiej ocenie atrakcyjności filmu. Porównanie pokazuje wtedy, w czym każdy z tych materiałów pomaga odbiorcy, zamiast sprowadzać ich ocenę do jednego wyniku.
 
@@ -108,7 +110,7 @@ Zamiar seansu kinowego & Deklarowana chęć obejrzenia filmu w kinie & Z uwzglę
 \end{tabularx}
 \vspace{4pt}
 
-\figuresource{Źródło: opracowanie własne na podstawie Ducoffe'a (1996), Filla i Turnbull (2023), Solomons, Kliphuis i Wadley (2022), Lee i Choeha (2020), Schivinskiego, Christodoulidesa i Dabrowskiego (2016), Oh, Roumaniego, Nwankpy i Hu (2017) oraz ustaleń podrozdziałów 1.1 i 1.3}
+\figuresource{Źródło: opracowanie własne na podstawie Ducoffe'a (1996), Filla i Turnbull (2023), Solomons, Kliphuis i Wadley (2022), Schivinskiego, Christodoulidesa i Dabrowskiego (2016), Oh, Roumaniego, Nwankpy i Hu (2017) oraz ustaleń podrozdziałów 1.1 i 1.3}
 
 \figureend
 
@@ -129,8 +131,6 @@ Ocenę form komunikacji należy odnosić do ich zadań, treści i autorstwa. Wsp
 [^formy-opinie]: Kerrigan, F. (2010). *Film marketing*. Butterworth-Heinemann. Cytowane s. 114. Numeracja drukowana.
 
 [^formy-udzial]: Solomons, D., Kliphuis, T., & Wadley, M. (2022). *eMarketing: The essential guide to marketing in a digital world* (7th ed.). Red & Yellow Creative School of Business. Cytowane s. 365-366, 433-434.
-
-[^formy-obieg]: Schivinski, B., Christodoulides, G., & Dabrowski, D. (2016). Measuring consumers' engagement with brand-related social-media content: Development and validation of a scale that identifies levels of social-media engagement with brands. *Journal of Advertising Research, 56*(1), 64-80. <https://doi.org/10.2501/JAR-2016-004>. Cytowane s. 4-5 wersji autorskiej przyjętej do druku.
 
 [^formy-mem]: Shifman, L. (2014). *Memes in digital culture*. MIT Press. Cytowana s. 41.
 
@@ -153,7 +153,6 @@ Ocenę form komunikacji należy odnosić do ich zadań, treści i autorstwa. Wsp
 [^formy-informacja]: Fill, C., & Turnbull, S. (2023). *Marketing communications* (9th ed.). Pearson. Cytowane s. 11-12.
 
 
-[^formy-badanie-przydatnosci]: Lee, S., & Choeh, J. Y. (2020). The impact of online review helpfulness and word of mouth communication on box office performance predictions. *Humanities and Social Sciences Communications, 7*, Article 84. <https://doi.org/10.1057/s41599-020-00578-9>. Cytowana s. 4.
 
 [^formy-zaangazowanie]: Oh, C., Roumani, Y., Nwankpa, J. K., & Hu, H.-F. (2017). Beyond likes and tweets: Consumer engagement behavior and movie box office in social media. *Information & Management, 54*(1), 25-37. <https://doi.org/10.1016/j.im.2016.03.004>. Cytowane s. 2, 28-29 wersji autorskiej przyjętej do druku.
 
