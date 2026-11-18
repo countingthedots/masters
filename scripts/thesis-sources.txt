@@ -2,3 +2,5 @@
 01-02-ewolucja-narzedzi-komunikacji-kinowej.md
 01-03-rola-mediow-spolecznosciowych-w-kreowaniu-autentycznosci-i-wiarygodnosci.md
 01-04-formy-promocji-filmow-w-mediach-spolecznosciowych-i-kryteria-ich-oceny.md
+90-bibliografia.md
+91-wykaz-zrodel-internetowych.md

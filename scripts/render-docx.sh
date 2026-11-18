@@ -49,16 +49,7 @@ files = [
     if line.strip() and not line.lstrip().startswith("#")
 ]
 
-metadata = """---
-title: "Praca magisterska"
-subtitle: "Komunikacja marketingowa w mediach społecznościowych a zachowania konsumentów pokolenia Z, na przykładzie branży kinowej"
-author: "Nastassia Żurawel"
-lang: pl-PL
-toc: true
-toc-title: "Spis treści"
-numbersections: false
----
-"""
+metadata = (repo_root / "00-pdf-metadata.yaml").read_text(encoding="utf-8")
 
 WORD_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
 REL_NS = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
@@ -371,6 +362,15 @@ def configure_styles(styles_path: Path) -> None:
             first_line=True,
             justified=True,
         )
+    bibliography = styles.get("Bibliography")
+    if bibliography is not None:
+        configure_paragraph_style(bibliography, size=UEP_BODY_SIZE)
+        properties = ensure_child(bibliography, "pPr")
+        indent = ensure_child(properties, "ind")
+        indent.attrib.pop(w_tag("firstLine"), None)
+        indent.set(w_tag("left"), "283")
+        indent.set(w_tag("hanging"), "283")
+        ensure_child(properties, "jc").set(w_tag("val"), "left")
     heading_1 = styles.get("Heading1")
     if heading_1 is not None:
         configure_paragraph_style(
@@ -534,6 +534,9 @@ def populate_toc(document_root: ET.Element) -> None:
 
 def configure_with_python_docx(path: Path) -> None:
     document = Document(path)
+    cover_author, cover_title = document.paragraphs[:2]
+    document.core_properties.author = cover_author.text
+    document.core_properties.title = cover_title.text
 
     def style_font(style_id: str, size: float, bold: bool = False) -> None:
         if style_id not in document.styles:

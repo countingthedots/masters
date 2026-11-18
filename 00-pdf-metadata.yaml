@@ -1,8 +1,11 @@
 ---
 title: "Komunikacja marketingowa w mediach społecznościowych a zachowania konsumentów pokolenia Z, na przykładzie branży kinowej"
-subtitle: "Praca magisterska"
+title-en: "Social Media Marketing Communication and Generation Z Consumer Behaviour: The Case of the Cinema Industry"
+thesis-type: "Praca magisterska"
 author: "Nastassia Żurawel"
-date: "2026"
+supervisor: "dr Dobrosława Mruk-Tomczak"
+programme: "Design i Komercjalizacja produktu"
+date: "Poznań 2026"
 lang: pl-PL
 toc: true
 toc-title: "Spis treści"
@@ -23,6 +26,14 @@ header-includes: |
   \setstretch{1.5}
   \usepackage{parskip}
   \setlength{\parskip}{0pt}
+  \makeatletter
+  \renewcommand{\section}{\@startsection{section}{1}{\z@}%
+    {-3.5ex \@plus -1ex \@minus -.2ex}{2.3ex \@plus .2ex}%
+    {\normalfont\fontsize{14}{17}\selectfont\bfseries}}
+  \renewcommand{\subsection}{\@startsection{subsection}{2}{\z@}%
+    {-3.25ex \@plus -1ex \@minus -.2ex}{1.5ex \@plus .2ex}%
+    {\normalfont\normalsize\bfseries}}
+  \makeatother
   \newcommand{\figuretitle}[1]{\par{\centering\fontsize{12}{14}\selectfont\bfseries #1\par}}
   \newcommand{\figuresource}[1]{\par{\raggedright\fontsize{10}{12}\selectfont\noindent #1\par}}
   \newcommand{\figurestart}{\par\noindent\begin{minipage}{\linewidth}\setlength{\parindent}{0pt}\centering}

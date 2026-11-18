@@ -47,7 +47,10 @@ while IFS= read -r relative_path || [ -n "$relative_path" ]; do
     echo "Error: thesis source not found: $file" >&2
     exit 1
   fi
-  printf '\n\\clearpage\n' >> "$TEMP_FILE"
+  case "$(head -n 1 "$file")" in
+    '# '[0-9]*'.'[0-9]*'. '*) ;;
+    *) printf '\n\\clearpage\n' >> "$TEMP_FILE" ;;
+  esac
   printf '\n' >> "$TEMP_FILE"
   cat "$file" >> "$TEMP_FILE"
   printf '\n' >> "$TEMP_FILE"
